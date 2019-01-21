@@ -12,13 +12,13 @@ day_night = true
 font = "default"
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
-description = ""
+description = "Ocean Scientist at CNRS, Sorbonne University and Idrri, France"
 
 # Default image for social sharing and search engines. Place image in `static/img/` folder and specify image name here.
-sharing_image = ""
+sharing_image = "gattuso_academia_europaea.jpg"
 
 # Twitter username (without @). Used when a vistor shares your site on Twitter.
-twitter = ""
+twitter = "jpGattuso"
 
 # Diplay a logo in navigation bar rather than title (optional).
 #   To enable, place an image in `static/img/` and reference its filename below. To disable, set the value to "".
@@ -26,9 +26,9 @@ logo = ""
 
 # Date and time format (refer to https://sourcethemes.com/academic/docs/customization/#date-format )
 #   Examples: "Mon, Jan 2, 2006" or "2006-01-02"
-date_format = "Jan 2, 2006"
+date_format = "2 Jan 2006"
 #   Examples: "3:04 pm" or "15:04"
-time_format = "3:04 PM"
+time_format = "15:04"
 
 # Show estimated reading time for posts?
 reading_time = true
@@ -61,14 +61,15 @@ privacy_pack = false
 gravatar = false
 
 # Contact Widget setup
-  email = "test@example.org"
-  address = "Building 1 Room 1, Stanford University, California, 90210, USA"
+  email = "gattuso@obs-vlfr.fr"
+  address = "181 Chemin du Lazaret, 06230 Villefranche-sur-mer, France"
   # Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
-  office_hours = """Monday 10:00 to 13:00<br>
-                    Wednesday 09:00 to 10:00<br>
-                    Otherwise email to book an appointment"""
-  phone = "888 888 88 88"
-  skype = "echo123"
+  office_hours = ""
+#  office_hours = """Monday 10:00 to 13:00<br>
+#                    Wednesday 09:00 to 10:00<br>
+#                    Otherwise email to book an appointment"""
+  phone = "+33 493763859"
+  skype = "gattuso_jp"
   telegram = ""
   keybase = ""  # Your keybase.io username.
 
@@ -134,7 +135,7 @@ custom_js  = []
 [publications]
   # Date format (refer to https://sourcethemes.com/academic/docs/customization/#date-format )
   #   Examples: "Mon, Jan 2, 2006" or "2006-01-02"
-  date_format = "January, 2006"
+  date_format = "2 January 2006"
 
 # Configuration of project pages.
 [projects]

@@ -1,45 +1,40 @@
 +++
 # Display name
-name = "Nelson Bighetti"
+name = "Jean-Pierre Gattuso"
 
 # Is this the primary user of the site?
 superuser = true
 
 # Role/position
-role = "Professor of Artificial Intelligence"
+role = "Senior Research Scientist"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-organizations = [ { name = "Stanford University", url = "" } ]
+organizations = [ { name = "CNRS", url = "http://www.cnrs.fr/en" }, { name = "Sorbonne University", url = "https://www.sorbonne-universite.fr/en" }, { name = "Iddri", url = "https://www.iddri.org/en" } ]
 
 # Short bio (displayed in user profile at end of posts)
-bio = "My research interests include distributed robotics, mobile computing and programmable matter."
+bio = "My research interests are about the ocean, climate change and solutions."
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email = ""
+email = "gattuso@obs-vlfr.fr"
 
 # List (academic) interests or hobbies
-interests = [
-  "Artificial Intelligence",
-  "Computational Linguistics",
-  "Information Retrieval"
-]
+# interests = [
+#   "Oceanography",
+#   "Climate Change",
+#   "Ocean Solutions"
+# ]
 
 # List qualifications (such as academic degrees)
-[[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
-
-[[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
-
-[[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
+# [[education.courses]]
+#   course = "Doctorate of Science"
+#   institution = "University of Nice"
+#   year = 1994
+#   
+# [[education.courses]]
+#   course = "PhD in Biological Oceanography"
+#   institution = "Aix-Marseille University"
+#   year = 1987
 
 # Social/Academic Networking
 #
@@ -59,35 +54,33 @@ interests = [
 #
 #   Full list: https://jpswalsh.github.io/academicons/
 
-[[social]]
-  icon = "envelope"
-  icon_pack = "fas"
-  link = "#contact"  # For a direct email link, use "mailto:test@example.org".
+#[[social]]
+#  icon = "envelope"
+#  icon_pack = "fas"
+#  link = "mailto:test@example.org"  # For a direct email link, use "mailto:test@example.org".
 
 [[social]]
   icon = "twitter"
   icon_pack = "fab"
-  link = "https://twitter.com/GeorgeCushen"
+  link = "https://twitter.com/jpGattuso"
 
 [[social]]
   icon = "google-scholar"
   icon_pack = "ai"
-  link = "https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ"
+  link = "https://scholar.google.fr/citations?user=4jJbnJcAAAAJ&hl=fr"
 
 [[social]]
   icon = "github"
   icon_pack = "fab"
-  link = "https://github.com/gcushen"
+  link = "https://github.com/jpgattuso"
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# [[social]]
-#   icon = "cv"
-#   icon_pack = "ai"
-#   link = "files/cv.pdf"
+ [[social]]
+   icon = "cv"
+   icon_pack = "ai"
+   link = "files/cv.pdf"
 
 +++
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+Jean-Pierre Gattuso is CNRS Senior Research Scientist (_Directeur de recherche_) at the Laboratoire d'Océanographie de Villefranche (Sorbonne University). He is also Associate Scientist at the Institute for Sustainable Development and International Relations (IDDRI-SciencesPo, Paris). His current research relates to the effects of ocean acidification and warming on marine ecosystems and the services that they provide to society. He also investigates ocean-based solutions to mitigate and adapt to climate change.
