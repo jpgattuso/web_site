@@ -1,23 +1,1418 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>2 on Academic</title>
+    <title>2 on Jean-Pierre Gattuso</title>
     <link>/publication_types/2/</link>
-    <description>Recent content in 2 on Academic</description>
+    <description>Recent content in 2 on Jean-Pierre Gattuso</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 01 Sep 2015 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0100</lastBuildDate>
     
 	<atom:link href="/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>A Person Re-Identification System For Mobile Devices</title>
-      <link>/publication/person-re-id/</link>
-      <pubDate>Tue, 01 Sep 2015 00:00:00 +0200</pubDate>
+      <title>Free Ocean CO|2| Enrichment (FOCE) experiments: scientific and technical recommendations for future in situ ocean acidification projects</title>
+      <link>/publication/stark-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0100</pubDate>
       
-      <guid>/publication/person-re-id/</guid>
-      <description>More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
+      <guid>/publication/stark-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An alternative to static climatologies: robust estimation of open ocean CO2 variables and nutrient concentrations from T, S, and O2 data using Bayesian neural networks</title>
+      <link>/publication/bittig-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/bittig-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Biodegradation of Emiliania huxleyi aggregates by a natural Mediterranean prokaryotic community under increasing hydrostatic pressure</title>
+      <link>/publication/riou-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/riou-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Climate change and interconnected risks to sustainable development in the Mediterranean</title>
+      <link>/publication/cramer-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/cramer-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Experimental strategies to assess the biological ramifications of multiple drivers of global ocean change - a review</title>
+      <link>/publication/boyd-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/boyd-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ocean pH fluctuations affect mussel larvae at key developmental transitions</title>
+      <link>/publication/kapsenberg-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/kapsenberg-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ocean solutions to address climate change and its effects on marine ecosystems</title>
+      <link>/publication/gattuso-2018-a/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/gattuso-2018-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Routine uncertainty propagation for the marine carbon dioxide system</title>
+      <link>/publication/orr-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/orr-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Taking the metabolic pulse of the world’s coral reefs</title>
+      <link>/publication/cyronak-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/cyronak-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Advancing ocean acidification biology using Durafet® pH electrodes</title>
+      <link>/publication/kapsenberg-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/kapsenberg-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Carbon-13 labelling shows no effect of ocean acidification on carbon transfer in Mediterranean plankton communities</title>
+      <link>/publication/maugendre-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/maugendre-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Coastal ocean acidification and increasing total alkalinity in the northwestern Mediterranean Sea</title>
+      <link>/publication/kapsenberg-2017-a/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/kapsenberg-2017-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Comparison of Mediterranean pteropod shell biometrics and ultrastructure from historical (1910 and 1921) and present day (2012) samples provides baseline for monitoring effects of global change</title>
+      <link>/publication/howes-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/howes-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Decoupled carbonate chemistry controls on the incorporation of boron into Orbulina universa</title>
+      <link>/publication/howes-2017-a/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/howes-2017-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Effects of in situ CO|2| enrichment on Posidonia oceanica epiphytic community composition and mineralogy</title>
+      <link>/publication/cox-2017-b/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/cox-2017-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Effects of in situ CO|2| enrichment on epibiont settlement on artificial substrata within a Posidonia oceanica meadow</title>
+      <link>/publication/cox-2017-a/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/cox-2017-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Effects of in situ CO|2| enrichment on epibiont settlement within a Posidonia oceanica meadow</title>
+      <link>/publication/cox-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/cox-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Estimates of water-column nutrients concentration and carbonate system parameters in the global ocean: A novel approach based on neural networks</title>
+      <link>/publication/sauzede-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/sauzede-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>No detectable effect of ocean acidification on plankton metabolism in the NW oligotrophic Mediterranean Sea: results from two mesocosm studies</title>
+      <link>/publication/maugendre-2017-a/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/maugendre-2017-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ocean acidification in the Mediterranean Sea: pelagic mesocosm experiments. A synthesis</title>
+      <link>/publication/maugendre-2017-b/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/maugendre-2017-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data compilation on the biological response to ocean acidification: an update</title>
+      <link>/publication/yang-2016-a/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/yang-2016-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Effects of elevated pCO|2| and feeding on net calcification and energy budget of the Mediterranean cold-water coral Madrepora oculata</title>
+      <link>/publication/maier-2016/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/maier-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Effects of in situ CO|2| enrichment on structural characteristics, photosynthesis, and growth of the Mediterranean seagrass Posidonia oceanica</title>
+      <link>/publication/cox-2016-a/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/cox-2016-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How to Document - Ocean Acidification Data</title>
+      <link>/publication/jiang-2016/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/jiang-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Implications of the Paris Agreement for the ocean</title>
+      <link>/publication/magnan-2016-b/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/magnan-2016-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Integrating the effects of ocean acidification across functional scales on tropical coral reefs</title>
+      <link>/publication/edmunds-2016/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/edmunds-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Key impacts of climate engineering on biodiversity and ecosystems, with priorities for future research</title>
+      <link>/publication/mc-cormack-2016/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/mc-cormack-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mineralogical response of the Mediterranean crustose coralline alga Lithophyllum cabiochae to near-future ocean acidification and warming</title>
+      <link>/publication/nash-2016-a/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/nash-2016-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Near-future pH conditions severely impact calcification, metabolism and the nervous system in the pteropod Heliconoides inflatus</title>
+      <link>/publication/moya-2016/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/moya-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An updated synthesis of the observed and projected impacts of climate change on the chemical, physical and biological processes in the oceans</title>
+      <link>/publication/howes-2015-c/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/howes-2015-c/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Comparison of ten packages that compute ocean carbonate chemistry</title>
+      <link>/publication/orr-2015-b/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/orr-2015-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Comparison of the alkalinity and calcium anomaly techniques to estimate rates of net calcification</title>
+      <link>/publication/gazeau-2015-a/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/gazeau-2015-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contrasting futures for ocean and society from different anthropogenic CO|2| emissions scenarios</title>
+      <link>/publication/gattuso-2015-j/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/gattuso-2015-j/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dispersal and remodeling of plankton communities by Agulhas rings</title>
+      <link>/publication/villar-2015-a/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/villar-2015-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Effect of ocean warming and acidification on a plankton community in the NW Mediterranean Sea</title>
+      <link>/publication/maugendre-2015/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/maugendre-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Effects of ocean acidification on Posidonia oceanica epiphytic community and shoot productivity</title>
+      <link>/publication/cox-2015-c/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/cox-2015-c/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lessons learned from ocean acidification research</title>
+      <link>/publication/riebesell-2015-a/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/riebesell-2015-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ocean acidification reshapes the otolith-body allometry of growth in juvenile sea bream</title>
+      <link>/publication/reveillac-2015-a/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/reveillac-2015-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rapid acclimation of juvenile corals to CO|2|-mediated acidification by up-regulation of HSP and Bcl-2 genes</title>
+      <link>/publication/moya-2015/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/moya-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Effect of salinity on the skeletal chemistry of cultured scleractinian zooxanthellate corals: Cd/Ca ratio as a potential proxy for salinity reconstruction</title>
+      <link>/publication/pretet-2014-a/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/pretet-2014-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Effects of ocean acidification and diet on thickness and carbonate elemental composition of the test of juvenile sea urchins</title>
+      <link>/publication/asnaghi-2014-a/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/asnaghi-2014-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Free-ocean CO|2| enrichment (FOCE) systems: present status and future developments</title>
+      <link>/publication/gattuso-2014-a/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/gattuso-2014-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sink and swim, a status review of thecosome pteropod culture techniques</title>
+      <link>/publication/howes-2014-b/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/howes-2014-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Arctic ocean acidification: pelagic ecosystem and biogeochemical responses during a mesocosm study</title>
+      <link>/publication/riebesell-2013-d/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/riebesell-2013-d/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Carbonate chemistry and air-sea CO|2| flux in a NW Mediterranean Bay over a four-year period: 2007-2011</title>
+      <link>/publication/de-carlo-2013-a/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/de-carlo-2013-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Constraining calcium isotope fractionation (δ44/40Ca) in modern and fossil scleractinian coral skeleton</title>
+      <link>/publication/pretet-2013-a/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/pretet-2013-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Effect of CO|2| enrichment on bacterial metabolism in an Arctic fjord</title>
+      <link>/publication/motegi-2013-a/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/motegi-2013-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Effect of increased pCO|2| on the planktonic metabolic balance during a mesocosm experiment in an Arctic fjord</title>
+      <link>/publication/tanaka-2013-b/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/tanaka-2013-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>End of the century pCO|2| levels do not impact net calcification in Mediterranean cold-water corals</title>
+      <link>/publication/maier-2013-c/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/maier-2013-c/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Impacts of ocean acidification on marine organisms: quantifying sensitivities and interaction with warming</title>
+      <link>/publication/kroeker-2013-c/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/kroeker-2013-c/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Impacts of ocean acidification on marine shelled molluscs</title>
+      <link>/publication/gazeau-2013-a/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/gazeau-2013-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ocean acidification and temperature rise: effects on calcification during early development of the cuttlefish Sepia officinalis</title>
+      <link>/publication/dorey-2013-c/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/dorey-2013-c/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>One-year experiment on the physiological response of the Mediterranean crustose coralline alga, Lithophyllum cabiochae, to elevated pCO|2| and temperature</title>
+      <link>/publication/martin-2013-b/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/martin-2013-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Photosynthesis, respiration and calcification of the Mediterranean crustose coralline alga Lithophyllum cabiochae (Corallinales, Rhodophyta)</title>
+      <link>/publication/martin-2013/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/martin-2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Seasonal variability of microbial respiration and bacterial and archaeal community composition in the twilight zone</title>
+      <link>/publication/weinbauer-2013-a/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/weinbauer-2013-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Taking action against ocean acidification: a review of management and policy options</title>
+      <link>/publication/bille-2013/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/bille-2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Calcification rates and the effect of ocean acidification on Mediterranean cold-water corals</title>
+      <link>/publication/maier-2012/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/maier-2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Effects of ocean acidification on overwintering juvenile Arctic pteropods Limacina helicina</title>
+      <link>/publication/comeau-2012-a/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/comeau-2012-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Future biological and ecosystem impacts of ocean acidification and their socioeconomic-policy implications</title>
+      <link>/publication/turley-2012-a/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/turley-2012-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Temperature and pCO|2| affect the bioaccumulation of radionuclides and trace elements in the eggs of the common cuttlefish, Sepia officinalis</title>
+      <link>/publication/lacoue-labarthe-2012-a/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/lacoue-labarthe-2012-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Variable production of transparent exopolymeric particles by haploid and diploid life stages of three coccolithophores grown under different CO|2| concentrations</title>
+      <link>/publication/pedrotti-2012-a/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/pedrotti-2012-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Whole transcriptome analysis of the coral Acropora millepora reveals complex responses to CO|2|-driven acidification during the initiation of calcification</title>
+      <link>/publication/moya-2012-b/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/moya-2012-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Balancing the oceanic calcium carbonate cycle: consequences of variable water column Ψ</title>
+      <link>/publication/smith-2011-b/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/smith-2011-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Coral and mollusc resistance to ocean acidification adversely affected by warming</title>
+      <link>/publication/rodolfo-metalpa-2011/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/rodolfo-metalpa-2011/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Coral reefs modify their seawater carbon chemistry – implications for impacts of ocean acidification</title>
+      <link>/publication/anthony-2011/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/anthony-2011/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Coral reefs modify their seawater carbon chemistry- Case study from a barrier reef (Moorea, French Polynesia)</title>
+      <link>/publication/kleypas-2011-c/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/kleypas-2011-c/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Early development and molecular plasticity in the Mediterranean sea urchin Paracentrotus lividus exposed to CO|2|-driven acidification</title>
+      <link>/publication/martin-2011-a/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/martin-2011-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Effect of carbonate chemistry alteration on the early embryonic development of the Pacific oyster (Crassostrea gigas)</title>
+      <link>/publication/gazeau-2011-b/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/gazeau-2011-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Effects of elevated CO|2| partial pressure and temperature on the coccolithophore Syracosphaera pulchra</title>
+      <link>/publication/fiorini-2011-b/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/fiorini-2011-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Effects of ocean acidification on trace elements accumulation in the early life stages of squid Loligo vulgaris</title>
+      <link>/publication/lacoue-labarthe-2011-a/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/lacoue-labarthe-2011-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Impact of aragonite saturation state changes on migratory pteropods</title>
+      <link>/publication/comeau-2011-b/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/comeau-2011-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quantifying the pH ‘vital effect’ in the temperate zooxanthellate coral Cladocora caespitosa: validation of the boron seawater pH proxy</title>
+      <link>/publication/trotter-2011-a/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/trotter-2011-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Response of the calcifying coccolithophore Emiliania huxleyi to low pH/high pCO|2|: from physiology to molecular level</title>
+      <link>/publication/richier-2011/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/richier-2011/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Testing the effects of elevated pCO|2| on coccolithophores (Prymnesiophyceae): comparison between haploid and diploid life stages</title>
+      <link>/publication/fiorini-2011/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/fiorini-2011/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Autotrophic and heterotrophic metabolism of microbial planktonic communities in an oligotrophic coastal marine ecosystem: seasonal dynamics and episodic events</title>
+      <link>/publication/bonilla-findji-2010-b/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/bonilla-findji-2010-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Coccolithophores lipid and carbon isotope composition and their variability related to changes in seawater carbonate chemistry</title>
+      <link>/publication/fiorini-2010-b/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/fiorini-2010-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>EPOCA/EUR-OCEANS data compilation on the biological and biogeochemical responses to ocean acidification</title>
+      <link>/publication/nisumaa-2010-b/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/nisumaa-2010-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Effect of carbonate ion concentration and irradiance on calcification in planktonic foraminifera</title>
+      <link>/publication/lombard-2010-a/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/lombard-2010-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Effect of ocean acidification on microbial diversity, and on microbe-driven biogeochemistry and ecosystem functioning</title>
+      <link>/publication/liu-2010-d/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/liu-2010-d/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Effect of ocean acidification on the early life stages of the blue mussel (Mytilus edulis)</title>
+      <link>/publication/gazeau-2010-b/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/gazeau-2010-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Larvae of the pteropod Cavolinia inflexa exposed to aragonite undersaturation are viable but shell-less</title>
+      <link>/publication/comeau-2010-f/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/comeau-2010-f/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Response of the Arctic pteropod Limacina helicina to projected future environmental conditions</title>
+      <link>/publication/comeau-2010/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/comeau-2010/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Response of the temperate coral Cladocora caespitosa to mid- and long-term exposure to pCO|2| and temperature levels projected for the year 2100 AD</title>
+      <link>/publication/rodolfo-metalpa-2010-c/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/rodolfo-metalpa-2010-c/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The societal challenge of ocean acidification</title>
+      <link>/publication/turley-2010-b/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/turley-2010-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Calcification of the cold-water coral Lophelia pertusa under ambient and reduced pH</title>
+      <link>/publication/maier-2009-b/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/maier-2009-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Effect of environmental conditions and skeletal ultrastructure on the Li isotopic composition of scleractinian corals</title>
+      <link>/publication/rollion-bard-2009-a/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/rollion-bard-2009-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Impact of ocean acidification on a key Arctic pelagic mollusc (Limacina helicina)</title>
+      <link>/publication/comeau-2009-d/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/comeau-2009-d/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Light-dependent transcriptional regulation of genes of biogeochemical interest in the diploid and haploid life cycle stages of Emiliania huxleyi</title>
+      <link>/publication/richier-2009-b/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/richier-2009-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ocean acidification exacerbates the effect of UV radiation on the calcifying phytoplankter Emiliania huxleyi</title>
+      <link>/publication/gao-2009-a/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/gao-2009-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ocean acidification exacerbates the effect of UV radiation on the calcifying phytoplankter Emiliania huxleyi</title>
+      <link>/publication/gao-2009-b/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/gao-2009-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Response of Mediterranean coralline algae to ocean acidification and elevated temperature</title>
+      <link>/publication/martin-2009/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/martin-2009/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Technical Note: Approaches and software tools to investigate the impact of ocean acidification</title>
+      <link>/publication/gattuso-2009-i/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/gattuso-2009-i/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Viral and flagellate control of prokaryotic production and community structure in offshore Mediterranean waters</title>
+      <link>/publication/bonilla-findji-2009-b/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/bonilla-findji-2009-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Oxygen production and carbon fixation in oligotrophic coastal bays and the relationship with gross and net primary production</title>
+      <link>/publication/gonzalez-2008/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/gonzalez-2008/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sectoral approaches to improve regional carbon budgets</title>
+      <link>/publication/smith-2008-b/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/smith-2008-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Viral effects on bacterial respiration, production and growth efficiency: consistent trends in the Southern Ocean and the Mediterranean Sea</title>
+      <link>/publication/bonilla-findji-2008-a/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/bonilla-findji-2008-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Artificial neural network analysis of factors controlling ecosystem metabolism in coastal marine environments</title>
+      <link>/publication/rochelle-newall-2007-a/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/rochelle-newall-2007-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Coastal zone</title>
+      <link>/publication/gattuso-2007-g/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/gattuso-2007-g/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Comment on &#34;Modern-age buildup of CO|2| and its effects on seawater acidity and salinity&#34; by Hugo A. Loáiciga</title>
+      <link>/publication/caldeira-2007-c/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/caldeira-2007-c/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Community primary production and calcification in a NW Mediterranean ecosystem dominated by calcareous macroalgae</title>
+      <link>/publication/bensoussan-2007-a/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/bensoussan-2007-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Impact of elevated CO|2| on shellfish calcification</title>
+      <link>/publication/gazeau-2007-c/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/gazeau-2007-c/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Planktonic primary production in estuaries: a comparison of the 14C, O2 and 18O methods</title>
+      <link>/publication/gazeau-2007-a/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/gazeau-2007-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Net ecosystem metabolism in a micro-tidal estuary (Randers Fjord, Denmark): evaluation of methods</title>
+      <link>/publication/gazeau-2005-d/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/gazeau-2005-d/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Patterns of research effort in coastal biogeochemistry and disturbances: a bibliometric survey (1971 to 2003)</title>
+      <link>/publication/gattuso-2005-g/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/gattuso-2005-g/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Response of primary production and calcification to changes of pCO|2| during experimental blooms of the coccolithophorid Emiliania huxleyi</title>
+      <link>/publication/delille-2005-b/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/delille-2005-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Testing the direct effect of CO|2| concentration on a bloom the coccolithophorid Emiliania huxleyi in mesocosm experiments</title>
+      <link>/publication/engel-2005-a/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/engel-2005-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Testing the direct effect of CO|2| concentration on a bloom the coccolithophorid Emiliania huxleyi in mesocosm experiments</title>
+      <link>/publication/engel-2005/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/engel-2005/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Effect of pCO|2| and temperature on the boron isotopic composition of the zooxanthellate coral Acropora sp.</title>
+      <link>/publication/reynaud-2004-c/</link>
+      <pubDate>Thu, 01 Jan 2004 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/reynaud-2004-c/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The European coastal zone: characterization and first assessment of ecosystem metabolism</title>
+      <link>/publication/gazeau-2004-d/</link>
+      <pubDate>Thu, 01 Jan 2004 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/gazeau-2004-d/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Interacting effects of CO|2| partial pressure and temperature on photosynthesis and calcification in a scleractinian coral</title>
+      <link>/publication/reynaud-2003-a/</link>
+      <pubDate>Wed, 01 Jan 2003 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/reynaud-2003-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Response of the coccolithophorid Emiliania huxleyi to elevated partial pressure of CO|2| under nitrate limitation</title>
+      <link>/publication/sciandra-2003-c/</link>
+      <pubDate>Wed, 01 Jan 2003 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/sciandra-2003-c/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A closed-chamber CO|2|-flux method for estimating intertidal primary production and respiration under emersed conditions</title>
+      <link>/publication/migne-2002-a/</link>
+      <pubDate>Tue, 01 Jan 2002 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/migne-2002-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Changes of bacterial community composition during measurements of community and microbial respiration</title>
+      <link>/publication/gattuso-2002-a/</link>
+      <pubDate>Tue, 01 Jan 2002 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/gattuso-2002-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Effect of feeding on the carbon, oxygen and nitrogen isotopic composition of the tissues and skeleton of the zooxanthellate coral Stylophora pistillata</title>
+      <link>/publication/reynaud-2002-a/</link>
+      <pubDate>Tue, 01 Jan 2002 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/reynaud-2002-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Primary production, respiration, and calcification of a coral reef mesocosm under increased CO|2| partial pressure</title>
+      <link>/publication/leclercq-2002-a/</link>
+      <pubDate>Tue, 01 Jan 2002 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/leclercq-2002-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Seasonal variation of bacterial production, respiration and growth efficiency in the open NW Mediterranean Sea</title>
+      <link>/publication/lemee-2002-a/</link>
+      <pubDate>Tue, 01 Jan 2002 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/lemee-2002-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Effect of light on skeletal ∂13C and ∂18O, and interaction with photosynthesis, respiration and calcification in two zooxanthellate scleractinian corals</title>
+      <link>/publication/reynaud-vaganay-2001-a/</link>
+      <pubDate>Mon, 01 Jan 2001 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/reynaud-vaganay-2001-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The future of coral reefs in an age of global change</title>
+      <link>/publication/kleypas-2001-b/</link>
+      <pubDate>Mon, 01 Jan 2001 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/kleypas-2001-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CO|2| partial pressure controls the calcification rate of a coral community</title>
+      <link>/publication/leclercq-2000-d/</link>
+      <pubDate>Sat, 01 Jan 2000 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/leclercq-2000-d/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Calcification does not stimulate photosynthesis in the zooxanthellate scleractinian coral Stylophora pistillata</title>
+      <link>/publication/gattuso-2000-a/</link>
+      <pubDate>Sat, 01 Jan 2000 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/gattuso-2000-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Effect of nutrient enrichment on growth and photosynthesis of the zooxanthellate coral Stylophora pistillata</title>
+      <link>/publication/ferrier-pages-2000/</link>
+      <pubDate>Sat, 01 Jan 2000 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/ferrier-pages-2000/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ocean biogeochemistry: calcification and CO|2|</title>
+      <link>/publication/gattuso-2000/</link>
+      <pubDate>Sat, 01 Jan 2000 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/gattuso-2000/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A novel culture technique for scleractinian corals: application to investigate changes in skeletal ∂18O as a function of temperature</title>
+      <link>/publication/reynaud-vaganay-1999-a/</link>
+      <pubDate>Fri, 01 Jan 1999 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/reynaud-vaganay-1999-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Effect of small variations in salinity on the rates of photosynthesis and respiration of the zooxanthellate coral Stylophora pistillata</title>
+      <link>/publication/ferrier-pages-1999/</link>
+      <pubDate>Fri, 01 Jan 1999 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/ferrier-pages-1999/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Geochemical consequences of increased atmospheric CO|2| on coral reefs</title>
+      <link>/publication/kleypas-1999-a/</link>
+      <pubDate>Fri, 01 Jan 1999 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/kleypas-1999-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Measurement of community metabolism and significance of coral reefs in the CO|2| source-sink debate</title>
+      <link>/publication/gattuso-1999-a/</link>
+      <pubDate>Fri, 01 Jan 1999 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/gattuso-1999-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Measurement of primary production and respiration in open-top mesocosms: application to a coral reef mesocosm</title>
+      <link>/publication/leclercq-1999-a/</link>
+      <pubDate>Fri, 01 Jan 1999 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/leclercq-1999-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Photosynthesis and calcification at cellular, organismal and community levels in coral reefs: a review on interactions and control by carbonate chemistry</title>
+      <link>/publication/gattuso-1999-b/</link>
+      <pubDate>Fri, 01 Jan 1999 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/gattuso-1999-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ultraviolet-B radiation stimulates shikimate pathway-dependent accumulation of mycosporine-like amino acids in the coral Stylophora pistillata despite decreases in its population of symbiotic dinoflagellates</title>
+      <link>/publication/shick-1999-a/</link>
+      <pubDate>Fri, 01 Jan 1999 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/shick-1999-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Biomass, production and grazing rates of pico- and nanoplankton in coral reef waters (Miyako Island, Japan)</title>
+      <link>/publication/ferrier-pages-1998/</link>
+      <pubDate>Thu, 01 Jan 1998 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/ferrier-pages-1998/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Calcium carbonate production of a dense population of the brittle star Ophiothrix fragilis (Echinodermata: Ophiuroidea): role in the carbon cycle of a temperate coastal ecosystem</title>
+      <link>/publication/migne-1998-a/</link>
+      <pubDate>Thu, 01 Jan 1998 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/migne-1998-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Carbon and carbonate metabolism in coastal aquatic ecosystems</title>
+      <link>/publication/gattuso-1998-a/</link>
+      <pubDate>Thu, 01 Jan 1998 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/gattuso-1998-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contribution of soft-bottoms to the community metabolism (carbon production and calcification) of a barrier reef flat (Moorea, French Polynesia)</title>
+      <link>/publication/boucher-1998-b/</link>
+      <pubDate>Thu, 01 Jan 1998 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/boucher-1998-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Effect of calcium carbonate saturation of seawater on coral calcification</title>
+      <link>/publication/gattuso-1998/</link>
+      <pubDate>Thu, 01 Jan 1998 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/gattuso-1998/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Microheterotrophy in the zooxanthellate coral Stylophora pistillata: effect of light and prey density</title>
+      <link>/publication/ferrier-pages-1998-a/</link>
+      <pubDate>Thu, 01 Jan 1998 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/ferrier-pages-1998-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Release of dissolved organic carbon and nitrogen by the zooxanthellate coral Galaxea fascicularis</title>
+      <link>/publication/ferrier-pages-1998-b/</link>
+      <pubDate>Thu, 01 Jan 1998 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/ferrier-pages-1998-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Effects of calcification patterns on the oxygen isotope composition of the skeleton of the scleractinian coral Acropora formosa</title>
+      <link>/publication/juillet-leclerc-1997-c/</link>
+      <pubDate>Wed, 01 Jan 1997 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/juillet-leclerc-1997-c/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Photosynthesis, respiration and calcification of a zooxanthellate scleractinian coral under submerged and exposed conditions</title>
+      <link>/publication/romaine-1997-a/</link>
+      <pubDate>Wed, 01 Jan 1997 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/romaine-1997-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Primary production, calcification, and air-sea CO|2| fluxes of a macroalgal-dominated coral reef community (Moorea, French Polynesia)</title>
+      <link>/publication/gattuso-1997-a/</link>
+      <pubDate>Wed, 01 Jan 1997 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/gattuso-1997-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Seasonal variation of primary productivity and skeletal ∂13C and ∂18O in the zooxanthellate scleractinian coral Acropora formosa</title>
+      <link>/publication/juillet-leclerc-1997/</link>
+      <pubDate>Wed, 01 Jan 1997 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/juillet-leclerc-1997/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Biological control of air-sea CO|2| fluxes: Effect of photosynthetic and calcifying marine organisms and ecosystems (vol 129, pg 307, 1995)</title>
+      <link>/publication/gattuso-1996-g/</link>
+      <pubDate>Mon, 01 Jan 1996 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/gattuso-1996-g/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Carbon fluxes in coral reefs. 1. Lagrangian measurement of community metabolism and resulting air-sea CO|2| disequilibrium</title>
+      <link>/publication/gattuso-1996/</link>
+      <pubDate>Mon, 01 Jan 1996 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/gattuso-1996/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Carbon fluxes in coral reefs. 2. Eulerian study of inorganic carbon dynamics and measurement of air-sea CO|2| exchanges</title>
+      <link>/publication/frankignoulle-1996-d/</link>
+      <pubDate>Mon, 01 Jan 1996 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/frankignoulle-1996-d/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Coral reefs and carbon dioxide</title>
+      <link>/publication/gattuso-1996-a/</link>
+      <pubDate>Mon, 01 Jan 1996 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/gattuso-1996-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An improved 45Ca protocol for investigating physiological mechanisms in coral calcification</title>
+      <link>/publication/tambutte-1995-a/</link>
+      <pubDate>Sun, 01 Jan 1995 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/tambutte-1995-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Biological control of air-sea CO|2| fluxes: effect of photosynthetic and calcifying marine organisms and ecosystems</title>
+      <link>/publication/gattuso-1995-d/</link>
+      <pubDate>Sun, 01 Jan 1995 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/gattuso-1995-d/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Marine calcification as a source of carbon dioxide- Positive feedback of increasing atmospheric CO|2|</title>
+      <link>/publication/frankignoulle-1994-b/</link>
+      <pubDate>Sat, 01 Jan 1994 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/frankignoulle-1994-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Community metabolism and air-sea CO|2| fluxes in a coral reef ecosystem (Moorea, French Polynesia)</title>
+      <link>/publication/gattuso-1993-a/</link>
+      <pubDate>Fri, 01 Jan 1993 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/gattuso-1993-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Depth- and light-dependent variation of carbon partitioning and utilization in the zooxanthellate scleractinian coral Stylophora pistillata</title>
+      <link>/publication/gattuso-1993/</link>
+      <pubDate>Fri, 01 Jan 1993 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/gattuso-1993/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Effects of a cyclone on coral reef phytoplankton biomass, primary production and composition (Moorea island, French Polynesia)</title>
+      <link>/publication/delesalle-1993-a/</link>
+      <pubDate>Fri, 01 Jan 1993 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/delesalle-1993-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Physiology and taxonomy of scleractinian corals: a case study in the genus Stylophora</title>
+      <link>/publication/gattuso-1991-a/</link>
+      <pubDate>Tue, 01 Jan 1991 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/gattuso-1991-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Validation of the alkalinity anomaly technique for investigating calcification and photosynthesis in coral reef communities</title>
+      <link>/publication/chisholm-1991-a/</link>
+      <pubDate>Tue, 01 Jan 1991 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/chisholm-1991-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Effect of light on oxygen and carbon dioxide fluxes and on metabolic quotients measured in situ in a zooxanthellate coral</title>
+      <link>/publication/gattuso-1990-a/</link>
+      <pubDate>Mon, 01 Jan 1990 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/gattuso-1990-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Computation of metabolic quotients in plant-animal symbiotic units</title>
+      <link>/publication/gattuso-1988-a/</link>
+      <pubDate>Fri, 01 Jan 1988 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/gattuso-1988-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Premières données concernant l’action de la lumière sur le métabolisme, la croissance et la calcification in situ du Scléractiniaire hermatypique Stylophora pistillata</title>
+      <link>/publication/gattuso-1984-a/</link>
+      <pubDate>Sun, 01 Jan 1984 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/gattuso-1984-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bottom-up effects on plate biomechanical properties of sea urchins in an acidified ocean scenario</title>
+      <link>/publication/asnaghiinpress/</link>
+      <pubDate>Thu, 01 Jan 1970 01:33:39 +0100</pubDate>
+      
+      <guid>/publication/asnaghiinpress/</guid>
+      <description></description>
     </item>
     
   </channel>

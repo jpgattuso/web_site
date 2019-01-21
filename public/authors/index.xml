@@ -1,15 +1,492 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Authors on Academic</title>
+    <title>Authors on Jean-Pierre Gattuso</title>
     <link>/authors/</link>
-    <description>Recent content in Authors on Academic</description>
+    <description>Recent content in Authors on Jean-Pierre Gattuso</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0100</lastBuildDate>
     
 	<atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>A Andersson</title>
+      <link>/authors/a-andersson/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/a-andersson/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Benthien</title>
+      <link>/authors/a-benthien/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/a-benthien/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Biastoch</title>
+      <link>/authors/a-biastoch/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/a-biastoch/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Charnoz</title>
+      <link>/authors/a-charnoz/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/a-charnoz/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Chase</title>
+      <link>/authors/a-chase/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/a-chase/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Ciotti</title>
+      <link>/authors/a-ciotti/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/a-ciotti/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Cohen</title>
+      <link>/authors/a-cohen/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/a-cohen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Eisenhauer</title>
+      <link>/authors/a-eisenhauer/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/a-eisenhauer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Engel</title>
+      <link>/authors/a-engel/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/a-engel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Foggo</title>
+      <link>/authors/a-foggo/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/a-foggo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Juillet-Leclerc</title>
+      <link>/authors/a-juillet-leclerc/</link>
+      <pubDate>Thu, 01 Jan 2004 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/a-juillet-leclerc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Kozyr</title>
+      <link>/authors/a-kozyr/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/a-kozyr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Körtzinger</title>
+      <link>/authors/a-k%C3%B6rtzinger/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/a-k%C3%B6rtzinger/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Le Fur</title>
+      <link>/authors/a-le-fur/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/a-le-fur/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Magnan</title>
+      <link>/authors/a-magnan/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/a-magnan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A McMahon</title>
+      <link>/authors/a-mcmahon/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/a-mcmahon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Meibom</title>
+      <link>/authors/a-meibom/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/a-meibom/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Mewes</title>
+      <link>/authors/a-mewes/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/a-mewes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Miglioli</title>
+      <link>/authors/a-miglioli/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/a-miglioli/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Moya</title>
+      <link>/authors/a-moya/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/a-moya/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Oschlies</title>
+      <link>/authors/a-oschlies/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/a-oschlies/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Queiros</title>
+      <link>/authors/a-queiros/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/a-queiros/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Rankovic</title>
+      <link>/authors/a-rankovic/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/a-rankovic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Schubert</title>
+      <link>/authors/a-schubert/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/a-schubert/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Sciandra</title>
+      <link>/authors/a-sciandra/</link>
+      <pubDate>Wed, 01 Jan 2003 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/a-sciandra/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Suzuki</title>
+      <link>/authors/a-suzuki/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/a-suzuki/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Terbreuggen</title>
+      <link>/authors/a-terbreuggen/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/a-terbreuggen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Venn</title>
+      <link>/authors/a-venn/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/a-venn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Watanabe</title>
+      <link>/authors/a-watanabe/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/a-watanabe/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Zingone</title>
+      <link>/authors/a-zingone/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/a-zingone/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A de Kluijver</title>
+      <link>/authors/a-de-kluijver/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/a-de-kluijver/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A-M Nisumaa</title>
+      <link>/authors/a-m-nisumaa/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/a-m-nisumaa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A. Benthien</title>
+      <link>/authors/a.-benthien/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/a.-benthien/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A. Doubleday</title>
+      <link>/authors/a.-doubleday/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/a.-doubleday/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A. E. Maas</title>
+      <link>/authors/a.-e.-maas/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/a.-e.-maas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A. Engel</title>
+      <link>/authors/a.-engel/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/a.-engel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A. Juillet-Leclerc</title>
+      <link>/authors/a.-juillet-leclerc/</link>
+      <pubDate>Tue, 01 Jan 2002 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/a.-juillet-leclerc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A. Malits</title>
+      <link>/authors/a.-malits/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/a.-malits/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A. Migné</title>
+      <link>/authors/a.-mign%C3%A9/</link>
+      <pubDate>Tue, 01 Jan 2002 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/a.-mign%C3%A9/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A. Moya</title>
+      <link>/authors/a.-moya/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/a.-moya/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A. Nobre</title>
+      <link>/authors/a.-nobre/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/a.-nobre/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A. S. Walcroft</title>
+      <link>/authors/a.-s.-walcroft/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/a.-s.-walcroft/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A. Silyakova</title>
+      <link>/authors/a.-silyakova/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/a.-silyakova/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A. Terbrueggen</title>
+      <link>/authors/a.-terbrueggen/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/a.-terbrueggen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A. V. Borges</title>
+      <link>/authors/a.-v.-borges/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/a.-v.-borges/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A. de Kluijver</title>
+      <link>/authors/a.-de-kluijver/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/a.-de-kluijver/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AD Rogers</title>
+      <link>/authors/ad-rogers/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/ad-rogers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AE Pronker</title>
+      <link>/authors/ae-pronker/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/ae-pronker/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AG Dickson</title>
+      <link>/authors/ag-dickson/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/ag-dickson/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AJ Andersson</title>
+      <link>/authors/aj-andersson/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/aj-andersson/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AJ Poulton</title>
+      <link>/authors/aj-poulton/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/aj-poulton/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AJ Ridgwell</title>
+      <link>/authors/aj-ridgwell/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/aj-ridgwell/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AK Magnan</title>
+      <link>/authors/ak-magnan/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/ak-magnan/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Admin</title>
@@ -21,20 +498,5159 @@
     </item>
     
     <item>
-      <title>GA Cushen</title>
-      <link>/authors/ga-cushen/</link>
-      <pubDate>Tue, 01 Sep 2015 00:00:00 +0200</pubDate>
+      <title>Ana Iglesias</title>
+      <link>/authors/ana-iglesias/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
       
-      <guid>/authors/ga-cushen/</guid>
+      <guid>/authors/ana-iglesias/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>MS Nixon</title>
-      <link>/authors/ms-nixon/</link>
-      <pubDate>Mon, 01 Jul 2013 00:00:00 +0200</pubDate>
+      <title>Andrea Toreti</title>
+      <link>/authors/andrea-toreti/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
       
-      <guid>/authors/ms-nixon/</guid>
+      <guid>/authors/andrea-toreti/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Andrew G. Dickson</title>
+      <link>/authors/andrew-g.-dickson/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/andrew-g.-dickson/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Andrew J. Watson</title>
+      <link>/authors/andrew-j.-watson/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/andrew-j.-watson/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Andrew Watkinson</title>
+      <link>/authors/andrew-watkinson/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/andrew-watkinson/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Andy Ridgwell</title>
+      <link>/authors/andy-ridgwell/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/andy-ridgwell/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>B Al Ali</title>
+      <link>/authors/b-al-ali/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/b-al-ali/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>B Beck</title>
+      <link>/authors/b-beck/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/b-beck/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>B Blanke</title>
+      <link>/authors/b-blanke/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/b-blanke/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>B Delille</title>
+      <link>/authors/b-delille/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/b-delille/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>B Fiedler</title>
+      <link>/authors/b-fiedler/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/b-fiedler/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>B Hanna</title>
+      <link>/authors/b-hanna/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/b-hanna/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>B Lazar</title>
+      <link>/authors/b-lazar/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/b-lazar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>B. Delesalle</title>
+      <link>/authors/b.-delesalle/</link>
+      <pubDate>Wed, 01 Jan 1997 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/b.-delesalle/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>B. Delille</title>
+      <link>/authors/b.-delille/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/b.-delille/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>B. Gentili</title>
+      <link>/authors/b.-gentili/</link>
+      <pubDate>Thu, 01 Jan 2004 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/b.-gentili/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>B. N. Opdyke</title>
+      <link>/authors/b.-n.-opdyke/</link>
+      <pubDate>Fri, 01 Jan 1999 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/b.-n.-opdyke/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>BD Eyre</title>
+      <link>/authors/bd-eyre/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/bd-eyre/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Brad A. Seibel</title>
+      <link>/authors/brad-a.-seibel/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/brad-a.-seibel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>C Baggini</title>
+      <link>/authors/c-baggini/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/c-baggini/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>C Bowler</title>
+      <link>/authors/c-bowler/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/c-bowler/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>C Briggs</title>
+      <link>/authors/c-briggs/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/c-briggs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>C Brownlee</title>
+      <link>/authors/c-brownlee/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/c-brownlee/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>C Brunet</title>
+      <link>/authors/c-brunet/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/c-brunet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>C Castejon</title>
+      <link>/authors/c-castejon/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/c-castejon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>C Chandler</title>
+      <link>/authors/c-chandler/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/c-chandler/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>C Dawber</title>
+      <link>/authors/c-dawber/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/c-dawber/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>C Dimier</title>
+      <link>/authors/c-dimier/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/c-dimier/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>C Ferrier-Pagès</title>
+      <link>/authors/c-ferrier-pag%C3%A8s/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/c-ferrier-pag%C3%A8s/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>C Guieu</title>
+      <link>/authors/c-guieu/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/c-guieu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>C Guigue</title>
+      <link>/authors/c-guigue/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/c-guigue/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>C Heemann</title>
+      <link>/authors/c-heemann/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/c-heemann/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>C Langdon</title>
+      <link>/authors/c-langdon/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/c-langdon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>C Lantz</title>
+      <link>/authors/c-lantz/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/c-lantz/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>C Maier</title>
+      <link>/authors/c-maier/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/c-maier/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>C Motegi</title>
+      <link>/authors/c-motegi/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/c-motegi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>C Pretet</title>
+      <link>/authors/c-pretet/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/c-pretet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>C Quiblier</title>
+      <link>/authors/c-quiblier/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/c-quiblier/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>C Rollion-Bard</title>
+      <link>/authors/c-rollion-bard/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/c-rollion-bard/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>C Santinelli</title>
+      <link>/authors/c-santinelli/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/c-santinelli/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>C Tamburini</title>
+      <link>/authors/c-tamburini/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/c-tamburini/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>C Turley</title>
+      <link>/authors/c-turley/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/c-turley/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>C Vignot</title>
+      <link>/authors/c-vignot/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/c-vignot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>C Wild</title>
+      <link>/authors/c-wild/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/c-wild/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>C de Vargas</title>
+      <link>/authors/c-de-vargas/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/c-de-vargas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>C. Barrón</title>
+      <link>/authors/c.-barr%C3%B3n/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/c.-barr%C3%B3n/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>C. Canon</title>
+      <link>/authors/c.-canon/</link>
+      <pubDate>Mon, 01 Jan 1996 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/c.-canon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>C. E. Payri</title>
+      <link>/authors/c.-e.-payri/</link>
+      <pubDate>Wed, 01 Jan 1997 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/c.-e.-payri/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>C. Ferrier-Pagès</title>
+      <link>/authors/c.-ferrier-pag%C3%A8s/</link>
+      <pubDate>Wed, 01 Jan 2003 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/c.-ferrier-pag%C3%A8s/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>C. Heemann</title>
+      <link>/authors/c.-heemann/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/c.-heemann/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>C. Hily</title>
+      <link>/authors/c.-hily/</link>
+      <pubDate>Thu, 01 Jan 1998 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/c.-hily/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>C. Langdon</title>
+      <link>/authors/c.-langdon/</link>
+      <pubDate>Fri, 01 Jan 1999 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/c.-langdon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>C. Lepoivre</title>
+      <link>/authors/c.-lepoivre/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/c.-lepoivre/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>C. M. Chua</title>
+      <link>/authors/c.-m.-chua/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/c.-m.-chua/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>C. M. Duarte</title>
+      <link>/authors/c.-m.-duarte/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/c.-m.-duarte/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>C. Peng</title>
+      <link>/authors/c.-peng/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/c.-peng/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CH Heip</title>
+      <link>/authors/ch-heip/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/ch-heip/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CHR Heip</title>
+      <link>/authors/chr-heip/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/chr-heip/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CL Hurd</title>
+      <link>/authors/cl-hurd/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/cl-hurd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CM Duarte</title>
+      <link>/authors/cm-duarte/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/cm-duarte/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CM Eakin</title>
+      <link>/authors/cm-eakin/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/cm-eakin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CM McGraw</title>
+      <link>/authors/cm-mcgraw/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/cm-mcgraw/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CN Hill</title>
+      <link>/authors/cn-hill/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/cn-hill/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CPD Brussard</title>
+      <link>/authors/cpd-brussard/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/cpd-brussard/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Caitlin G. McCormack</title>
+      <link>/authors/caitlin-g.-mccormack/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/caitlin-g.-mccormack/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Carlos Duarte</title>
+      <link>/authors/carlos-duarte/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/carlos-duarte/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Carol Turley</title>
+      <link>/authors/carol-turley/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/carol-turley/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chris Langdon</title>
+      <link>/authors/chris-langdon/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/chris-langdon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chris Vivian</title>
+      <link>/authors/chris-vivian/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/chris-vivian/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Christopher L. Sabine</title>
+      <link>/authors/christopher-l.-sabine/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/christopher-l.-sabine/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Colomban de Vargas</title>
+      <link>/authors/colomban-de-vargas/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/colomban-de-vargas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>D Allemand</title>
+      <link>/authors/d-allemand/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/d-allemand/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>D Blamart</title>
+      <link>/authors/d-blamart/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/d-blamart/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>D Gledhill</title>
+      <link>/authors/d-gledhill/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/d-gledhill/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>D Herr</title>
+      <link>/authors/d-herr/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/d-herr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>D Iudicone</title>
+      <link>/authors/d-iudicone/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/d-iudicone/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>D Kline</title>
+      <link>/authors/d-kline/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/d-kline/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>D Laffoley</title>
+      <link>/authors/d-laffoley/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/d-laffoley/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>D Lefèvre</title>
+      <link>/authors/d-lef%C3%A8vre/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/d-lef%C3%A8vre/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>D Manzello</title>
+      <link>/authors/d-manzello/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/d-manzello/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>D Osborn</title>
+      <link>/authors/d-osborn/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/d-osborn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>D Privitera</title>
+      <link>/authors/d-privitera/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/d-privitera/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>D Wolf-Gladrow</title>
+      <link>/authors/d-wolf-gladrow/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/d-wolf-gladrow/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>D van Oevelen</title>
+      <link>/authors/d-van-oevelen/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/d-van-oevelen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>D. Allemand</title>
+      <link>/authors/d.-allemand/</link>
+      <pubDate>Fri, 01 Jan 1999 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/d.-allemand/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>D. Archer</title>
+      <link>/authors/d.-archer/</link>
+      <pubDate>Fri, 01 Jan 1999 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/d.-archer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>D. C. Hayward</title>
+      <link>/authors/d.-c.-hayward/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/d.-c.-hayward/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>D. Davoult</title>
+      <link>/authors/d.-davoult/</link>
+      <pubDate>Tue, 01 Jan 2002 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/d.-davoult/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>D. J. Miller</title>
+      <link>/authors/d.-j.-miller/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/d.-j.-miller/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>D. Menu</title>
+      <link>/authors/d.-menu/</link>
+      <pubDate>Tue, 01 Jan 2002 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/d.-menu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>D. Murdiyarso</title>
+      <link>/authors/d.-murdiyarso/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/d.-murdiyarso/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>D. Roberts</title>
+      <link>/authors/d.-roberts/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/d.-roberts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>D. Yellowlees</title>
+      <link>/authors/d.-yellowlees/</link>
+      <pubDate>Fri, 01 Jan 1993 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/d.-yellowlees/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>D.I. Kline</title>
+      <link>/authors/d.i.-kline/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/d.i.-kline/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DA Hutchins</title>
+      <link>/authors/da-hutchins/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/da-hutchins/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DA Koweek</title>
+      <link>/authors/da-koweek/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/da-koweek/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DI Kline</title>
+      <link>/authors/di-kline/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/di-kline/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DJ Miller</title>
+      <link>/authors/dj-miller/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/dj-miller/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DN Schmidt</title>
+      <link>/authors/dn-schmidt/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/dn-schmidt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>David Archer</title>
+      <link>/authors/david-archer/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/david-archer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Derek P. Tittensor</title>
+      <link>/authors/derek-p.-tittensor/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/derek-p.-tittensor/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>E Boss</title>
+      <link>/authors/e-boss/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/e-boss/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>E Cox</title>
+      <link>/authors/e-cox/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/e-cox/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>E Harrould-Kolieb</title>
+      <link>/authors/e-harrould-kolieb/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/e-harrould-kolieb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>E Legrand</title>
+      <link>/authors/e-legrand/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/e-legrand/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>E Mcleod</title>
+      <link>/authors/e-mcleod/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/e-mcleod/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>E Pelletier</title>
+      <link>/authors/e-pelletier/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/e-pelletier/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>E Peltzer</title>
+      <link>/authors/e-peltzer/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/e-peltzer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>E Rochelle-Newall</title>
+      <link>/authors/e-rochelle-newall/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/e-rochelle-newall/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>E Réveillac</title>
+      <link>/authors/e-r%C3%A9veillac/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/e-r%C3%A9veillac/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>E Samankassou</title>
+      <link>/authors/e-samankassou/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/e-samankassou/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>E Scalco</title>
+      <link>/authors/e-scalco/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/e-scalco/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>E Shaw</title>
+      <link>/authors/e-shaw/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/e-shaw/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>E Tambutté</title>
+      <link>/authors/e-tambutt%C3%A9/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/e-tambutt%C3%A9/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>E Villar</title>
+      <link>/authors/e-villar/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/e-villar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>E. Cox</title>
+      <link>/authors/e.-cox/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/e.-cox/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>E. E. Ball</title>
+      <link>/authors/e.-e.-ball/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/e.-e.-ball/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>E. J. Rochelle-Newall</title>
+      <link>/authors/e.-j.-rochelle-newall/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/e.-j.-rochelle-newall/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>E. Jobbagy</title>
+      <link>/authors/e.-jobbagy/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/e.-jobbagy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>E. Rochelle-Newall</title>
+      <link>/authors/e.-rochelle-newall/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/e.-rochelle-newall/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>EB Muller</title>
+      <link>/authors/eb-muller/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/eb-muller/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>EE Bockmon</title>
+      <link>/authors/ee-bockmon/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/ee-bockmon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>EH de Carlo</title>
+      <link>/authors/eh-de-carlo/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/eh-de-carlo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>EL Howes</title>
+      <link>/authors/el-howes/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/el-howes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ET Peltzer</title>
+      <link>/authors/et-peltzer/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/et-peltzer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>EW Helbling</title>
+      <link>/authors/ew-helbling/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/ew-helbling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Elena Xoplaki</title>
+      <link>/authors/elena-xoplaki/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/elena-xoplaki/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Emma Woods</title>
+      <link>/authors/emma-woods/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/emma-woods/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Eric P. Achterberg</title>
+      <link>/authors/eric-p.-achterberg/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/eric-p.-achterberg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Erica Hendy</title>
+      <link>/authors/erica-hendy/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/erica-hendy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Eugene J. Murphy</title>
+      <link>/authors/eugene-j.-murphy/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/eugene-j.-murphy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>F Boisson</title>
+      <link>/authors/f-boisson/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/f-boisson/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>F Böhm</title>
+      <link>/authors/f-b%C3%B6hm/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/f-b%C3%B6hm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>F Gazeau</title>
+      <link>/authors/f-gazeau/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/f-gazeau/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>F Houlbrèque</title>
+      <link>/authors/f-houlbr%C3%A8que/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/f-houlbr%C3%A8que/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>F Joos</title>
+      <link>/authors/f-joos/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/f-joos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>F Le Moigne</title>
+      <link>/authors/f-le-moigne/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/f-le-moigne/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>F Lombard</title>
+      <link>/authors/f-lombard/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/f-lombard/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>F Melzner</title>
+      <link>/authors/f-melzner/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/f-melzner/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>F Micheli</title>
+      <link>/authors/f-micheli/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/f-micheli/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>F Not</title>
+      <link>/authors/f-not/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/f-not/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>F Oberhänsli</title>
+      <link>/authors/f-oberh%C3%A4nsli/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/f-oberh%C3%A4nsli/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>F Peene</title>
+      <link>/authors/f-peene/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/f-peene/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>F Vincent</title>
+      <link>/authors/f-vincent/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/f-vincent/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>F d’Ortenzio</title>
+      <link>/authors/f-dortenzio/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/f-dortenzio/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>F. Gazeau</title>
+      <link>/authors/f.-gazeau/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/f.-gazeau/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>F. Rassoulzadegan</title>
+      <link>/authors/f.-rassoulzadegan/</link>
+      <pubDate>Thu, 01 Jan 1998 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/f.-rassoulzadegan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>F. Van Wambeke</title>
+      <link>/authors/f.-van-wambeke/</link>
+      <pubDate>Tue, 01 Jan 2002 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/f.-van-wambeke/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>FP Patti</title>
+      <link>/authors/fp-patti/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/fp-patti/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Frank M. Schurr</title>
+      <link>/authors/frank-m.-schurr/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/frank-m.-schurr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>G Camoin</title>
+      <link>/authors/g-camoin/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/g-camoin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>G Farrant</title>
+      <link>/authors/g-farrant/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/g-farrant/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>G Gorsky</title>
+      <link>/authors/g-gorsky/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/g-gorsky/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>G Johnstone</title>
+      <link>/authors/g-johnstone/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/g-johnstone/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>G Mortimer</title>
+      <link>/authors/g-mortimer/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/g-mortimer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>G Torda</title>
+      <link>/authors/g-torda/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/g-torda/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>G Zimmerman</title>
+      <link>/authors/g-zimmerman/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/g-zimmerman/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>G-J Nabuurs</title>
+      <link>/authors/g-j-nabuurs/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/g-j-nabuurs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>G. Boucher</title>
+      <link>/authors/g.-boucher/</link>
+      <pubDate>Tue, 01 Jan 2002 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/g.-boucher/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>G. Copin-Montégut</title>
+      <link>/authors/g.-copin-mont%C3%A9gut/</link>
+      <pubDate>Mon, 01 Jan 1996 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/g.-copin-mont%C3%A9gut/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>G. Hemming</title>
+      <link>/authors/g.-hemming/</link>
+      <pubDate>Thu, 01 Jan 2004 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/g.-hemming/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>G. J. Herndl</title>
+      <link>/authors/g.-j.-herndl/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/g.-j.-herndl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>G. Marland</title>
+      <link>/authors/g.-marland/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/g.-marland/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>G. Zhou</title>
+      <link>/authors/g.-zhou/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/g.-zhou/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GE Nilsson</title>
+      <link>/authors/ge-nilsson/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/ge-nilsson/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GH Rau</title>
+      <link>/authors/gh-rau/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/gh-rau/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gerald Singh</title>
+      <link>/authors/gerald-singh/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/gerald-singh/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>H Biswas</title>
+      <link>/authors/h-biswas/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/h-biswas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>H Bittig</title>
+      <link>/authors/h-bittig/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/h-bittig/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>H Claustre</title>
+      <link>/authors/h-claustre/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/h-claustre/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>H Elderfield</title>
+      <link>/authors/h-elderfield/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/h-elderfield/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>H Kayanne</title>
+      <link>/authors/h-kayanne/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/h-kayanne/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>H Kurihara</title>
+      <link>/authors/h-kurihara/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/h-kurihara/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>H Lavigne</title>
+      <link>/authors/h-lavigne/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/h-lavigne/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>H Ogata</title>
+      <link>/authors/h-ogata/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/h-ogata/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>H Waisman</title>
+      <link>/authors/h-waisman/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/h-waisman/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>H-O Pörtner</title>
+      <link>/authors/h-o-p%C3%B6rtner/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/h-o-p%C3%B6rtner/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>H. N. Woo</title>
+      <link>/authors/h.-n.-woo/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/h.-n.-woo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>H. Rybarczyk</title>
+      <link>/authors/h.-rybarczyk/</link>
+      <pubDate>Tue, 01 Jan 2002 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/h.-rybarczyk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HC Bittig</title>
+      <link>/authors/hc-bittig/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/hc-bittig/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HE Garcia</title>
+      <link>/authors/he-garcia/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/he-garcia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HN Page</title>
+      <link>/authors/hn-page/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/hn-page/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HS Findlay</title>
+      <link>/authors/hs-findlay/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/hs-findlay/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Harry Elderfield</title>
+      <link>/authors/harry-elderfield/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/harry-elderfield/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>H‐O Pörtner</title>
+      <link>/authors/ho-p%C3%B6rtner/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/ho-p%C3%B6rtner/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>I Enochs</title>
+      <link>/authors/i-enochs/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/i-enochs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>I Horn</title>
+      <link>/authors/i-horn/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/i-horn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>I Zondervan</title>
+      <link>/authors/i-zondervan/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/i-zondervan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>I. Bourge</title>
+      <link>/authors/i.-bourge/</link>
+      <pubDate>Sat, 01 Jan 2000 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/i.-bourge/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>I. Janssens</title>
+      <link>/authors/i.-janssens/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/i.-janssens/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>I. Zondervan</title>
+      <link>/authors/i.-zondervan/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/i.-zondervan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>I.E. Hendriks</title>
+      <link>/authors/i.e.-hendriks/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/i.e.-hendriks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>IE Hendriks</title>
+      <link>/authors/ie-hendriks/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/ie-hendriks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>IR Santos</title>
+      <link>/authors/ir-santos/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/ir-santos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Iris Hendriks</title>
+      <link>/authors/iris-hendriks/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/iris-hendriks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>J Barry</title>
+      <link>/authors/j-barry/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/j-barry/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>J Bijma</title>
+      <link>/authors/j-bijma/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/j-bijma/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>J Black</title>
+      <link>/authors/j-black/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/j-black/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>J Büdenbender</title>
+      <link>/authors/j-b%C3%BCdenbender/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/j-b%C3%BCdenbender/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>J Delille</title>
+      <link>/authors/j-delille/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/j-delille/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>J Diego Gaitan-Espitia</title>
+      <link>/authors/j-diego-gaitan-espitia/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/j-diego-gaitan-espitia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>J Erez</title>
+      <link>/authors/j-erez/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/j-erez/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>J Harlay</title>
+      <link>/authors/j-harlay/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/j-harlay/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>J Havenhand</title>
+      <link>/authors/j-havenhand/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/j-havenhand/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>J Hegeman</title>
+      <link>/authors/j-hegeman/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/j-hegeman/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>J Hinkel</title>
+      <link>/authors/j-hinkel/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/j-hinkel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>J Ingels</title>
+      <link>/authors/j-ingels/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/j-ingels/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>J Kleypas</title>
+      <link>/authors/j-kleypas/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/j-kleypas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>J Liu</title>
+      <link>/authors/j-liu/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/j-liu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>J Louis</title>
+      <link>/authors/j-louis/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/j-louis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>J Middelburg</title>
+      <link>/authors/j-middelburg/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/j-middelburg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>J Nejstgaard</title>
+      <link>/authors/j-nejstgaard/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/j-nejstgaard/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>J Orr</title>
+      <link>/authors/j-orr/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/j-orr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>J Para</title>
+      <link>/authors/j-para/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/j-para/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>J Peene</title>
+      <link>/authors/j-peene/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/j-peene/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>J Piontek</title>
+      <link>/authors/j-piontek/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/j-piontek/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>J Rochette</title>
+      <link>/authors/j-rochette/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/j-rochette/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>J Runcie</title>
+      <link>/authors/j-runcie/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/j-runcie/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>J Silverman</title>
+      <link>/authors/j-silverman/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/j-silverman/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>J Stark</title>
+      <link>/authors/j-stark/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/j-stark/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>J Trotter</title>
+      <link>/authors/j-trotter/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/j-trotter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>J-L Teyssié</title>
+      <link>/authors/j-l-teyssi%C3%A9/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/j-l-teyssi%C3%A9/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>J-M Epitalon</title>
+      <link>/authors/j-m-epitalon/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/j-m-epitalon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>J-O Irisson</title>
+      <link>/authors/j-o-irisson/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/j-o-irisson/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>J-P Cuif</title>
+      <link>/authors/j-p-cuif/</link>
+      <pubDate>Fri, 01 Jan 1999 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/j-p-cuif/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>J-P Gattuso</title>
+      <link>/authors/j-p-gattuso/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/j-p-gattuso/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>J-P Vanderborght</title>
+      <link>/authors/j-p-vanderborght/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/j-p-vanderborght/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>J-S Ong</title>
+      <link>/authors/j-s-ong/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/j-s-ong/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>J. A. Kleypas</title>
+      <link>/authors/j.-a.-kleypas/</link>
+      <pubDate>Mon, 01 Jan 2001 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/j.-a.-kleypas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>J. Bijma</title>
+      <link>/authors/j.-bijma/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/j.-bijma/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>J. Clavier</title>
+      <link>/authors/j.-clavier/</link>
+      <pubDate>Thu, 01 Jan 1998 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/j.-clavier/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>J. Czerny</title>
+      <link>/authors/j.-czerny/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/j.-czerny/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>J. Fang</title>
+      <link>/authors/j.-fang/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/j.-fang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>J. Harlay</title>
+      <link>/authors/j.-harlay/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/j.-harlay/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>J. J. Middelburg</title>
+      <link>/authors/j.-j.-middelburg/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/j.-j.-middelburg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>J. Jaubert</title>
+      <link>/authors/j.-jaubert/</link>
+      <pubDate>Wed, 01 Jan 2003 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/j.-jaubert/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>J. M. Shick</title>
+      <link>/authors/j.-m.-shick/</link>
+      <pubDate>Fri, 01 Jan 1999 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/j.-m.-shick/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>J. Nejstgaard</title>
+      <link>/authors/j.-nejstgaard/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/j.-nejstgaard/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>J. Ni</title>
+      <link>/authors/j.-ni/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/j.-ni/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>J. P. Guerschman</title>
+      <link>/authors/j.-p.-guerschman/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/j.-p.-guerschman/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>J. R. M. Chisholm</title>
+      <link>/authors/j.-r.-m.-chisholm/</link>
+      <pubDate>Tue, 01 Jan 1991 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/j.-r.-m.-chisholm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>J. R. Ware</title>
+      <link>/authors/j.-r.-ware/</link>
+      <pubDate>Mon, 01 Jan 1996 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/j.-r.-ware/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>J. Reeve</title>
+      <link>/authors/j.-reeve/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/j.-reeve/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>J.-F. Soussana</title>
+      <link>/authors/j.-f.-soussana/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/j.-f.-soussana/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>JA Kleypas</title>
+      <link>/authors/ja-kleypas/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/ja-kleypas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>JB Ries</title>
+      <link>/authors/jb-ries/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/jb-ries/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>JB Romagnan</title>
+      <link>/authors/jb-romagnan/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/jb-romagnan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>JC Orr</title>
+      <link>/authors/jc-orr/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/jc-orr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>JE Corredor</title>
+      <link>/authors/je-corredor/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/je-corredor/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>JJ Middelburg</title>
+      <link>/authors/jj-middelburg/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/jj-middelburg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>JM Baxter</title>
+      <link>/authors/jm-baxter/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/jm-baxter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>JM Grady</title>
+      <link>/authors/jm-grady/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/jm-grady/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>JM Hall-Spencer</title>
+      <link>/authors/jm-hall-spencer/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/jm-hall-spencer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>JM Jansen</title>
+      <link>/authors/jm-jansen/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/jm-jansen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>JM Navarro</title>
+      <link>/authors/jm-navarro/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/jm-navarro/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>JP Barry</title>
+      <link>/authors/jp-barry/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/jp-barry/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>JP Gattuso</title>
+      <link>/authors/jp-gattuso/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/jp-gattuso/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>JR Brum</title>
+      <link>/authors/jr-brum/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/jr-brum/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>JR Dolan</title>
+      <link>/authors/jr-dolan/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/jr-dolan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jain Atul K.</title>
+      <link>/authors/jain-atul-k./</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/jain-atul-k./</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>James C. Orr</title>
+      <link>/authors/james-c.-orr/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/james-c.-orr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>James P. Barry</title>
+      <link>/authors/james-p.-barry/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/james-p.-barry/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jason J. Blackstock</title>
+      <link>/authors/jason-j.-blackstock/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/jason-j.-blackstock/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jean-Pierre Gattuso</title>
+      <link>/authors/jean-pierre-gattuso/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/jean-pierre-gattuso/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jeff Ardron</title>
+      <link>/authors/jeff-ardron/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/jeff-ardron/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jill Thompson</title>
+      <link>/authors/jill-thompson/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/jill-thompson/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Joan A. Kleypas</title>
+      <link>/authors/joan-a.-kleypas/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/joan-a.-kleypas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Joaquim Garrabou</title>
+      <link>/authors/joaquim-garrabou/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/joaquim-garrabou/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Josef Settele</title>
+      <link>/authors/josef-settele/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/josef-settele/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Josep Peñuelas</title>
+      <link>/authors/josep-pe%C3%B1uelas/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/josep-pe%C3%B1uelas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Joël Guiot</title>
+      <link>/authors/jo%C3%ABl-guiot/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/jo%C3%ABl-guiot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>J­-P Gattuso</title>
+      <link>/authors/j-p-gattuso/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/j-p-gattuso/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>K Aerts</title>
+      <link>/authors/k-aerts/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/k-aerts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>K Caldeira</title>
+      <link>/authors/k-caldeira/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/k-caldeira/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>K Fabricius</title>
+      <link>/authors/k-fabricius/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/k-fabricius/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>K Gao</title>
+      <link>/authors/k-gao/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/k-gao/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>K Gross</title>
+      <link>/authors/k-gross/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/k-gross/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>K Headley</title>
+      <link>/authors/k-headley/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/k-headley/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>K Johnson</title>
+      <link>/authors/k-johnson/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/k-johnson/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>K Kaczmarek</title>
+      <link>/authors/k-kaczmarek/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/k-kaczmarek/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>K Karsenti</title>
+      <link>/authors/k-karsenti/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/k-karsenti/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>K Kroeker</title>
+      <link>/authors/k-kroeker/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/k-kroeker/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>K Soetaert</title>
+      <link>/authors/k-soetaert/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/k-soetaert/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>K Tachikawa</title>
+      <link>/authors/k-tachikawa/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/k-tachikawa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>K. Aerts</title>
+      <link>/authors/k.-aerts/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/k.-aerts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>K. Anthony</title>
+      <link>/authors/k.-anthony/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/k.-anthony/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>K. G. Schulz</title>
+      <link>/authors/k.-g.-schulz/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/k.-g.-schulz/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>K. Tait</title>
+      <link>/authors/k.-tait/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/k.-tait/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>KG Schulz</title>
+      <link>/authors/kg-schulz/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/kg-schulz/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>KJ Kroeker</title>
+      <link>/authors/kj-kroeker/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/kj-kroeker/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>KM Arzayus</title>
+      <link>/authors/km-arzayus/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/km-arzayus/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>KRN Anthony</title>
+      <link>/authors/krn-anthony/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/krn-anthony/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>KS Gao</title>
+      <link>/authors/ks-gao/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/ks-gao/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Katrin Vohland</title>
+      <link>/authors/katrin-vohland/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/katrin-vohland/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ken Caldeira</title>
+      <link>/authors/ken-caldeira/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/ken-caldeira/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kristy Kroeker</title>
+      <link>/authors/kristy-kroeker/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/kristy-kroeker/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>L Beaufort</title>
+      <link>/authors/l-beaufort/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/l-beaufort/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>L Bittner</title>
+      <link>/authors/l-bittner/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/l-bittner/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>L Bodrossy</title>
+      <link>/authors/l-bodrossy/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/l-bodrossy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>L Bopp</title>
+      <link>/authors/l-bopp/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/l-bopp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>L Chou</title>
+      <link>/authors/l-chou/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/l-chou/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>L Garczarek</title>
+      <link>/authors/l-garczarek/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/l-garczarek/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>L Guidi</title>
+      <link>/authors/l-guidi/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/l-guidi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>L Hansson</title>
+      <link>/authors/l-hansson/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/l-hansson/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>L Heath</title>
+      <link>/authors/l-heath/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/l-heath/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>L Hoffmann</title>
+      <link>/authors/l-hoffmann/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/l-hoffmann/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>L Kapsenberg</title>
+      <link>/authors/l-kapsenberg/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/l-kapsenberg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>L Legendre</title>
+      <link>/authors/l-legendre/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/l-legendre/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>L Mangialajo</title>
+      <link>/authors/l-mangialajo/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/l-mangialajo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>L Maugendre</title>
+      <link>/authors/l-maugendre/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/l-maugendre/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>L Mousseau</title>
+      <link>/authors/l-mousseau/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/l-mousseau/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>L Teneva</title>
+      <link>/authors/l-teneva/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/l-teneva/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>L Urbini</title>
+      <link>/authors/l-urbini/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/l-urbini/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>L-Q Jiang</title>
+      <link>/authors/l-q-jiang/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/l-q-jiang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>L. Beaufort</title>
+      <link>/authors/l.-beaufort/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/l.-beaufort/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>L. Chou</title>
+      <link>/authors/l.-chou/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/l.-chou/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>L. F. Montaggioni</title>
+      <link>/authors/l.-f.-montaggioni/</link>
+      <pubDate>Wed, 01 Jan 1997 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/l.-f.-montaggioni/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>L. Hansson</title>
+      <link>/authors/l.-hansson/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/l.-hansson/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>L. Hoffmann</title>
+      <link>/authors/l.-hoffmann/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/l.-hoffmann/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>L. Huisman</title>
+      <link>/authors/l.-huisman/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/l.-huisman/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>LM Parker</title>
+      <link>/authors/lm-parker/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/lm-parker/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Laura Ramajo</title>
+      <link>/authors/laura-ramajo/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/laura-ramajo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Liti Haramaty</title>
+      <link>/authors/liti-haramaty/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/liti-haramaty/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Long Cao</title>
+      <link>/authors/long-cao/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/long-cao/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>M Chiantore</title>
+      <link>/authors/m-chiantore/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/m-chiantore/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>M Collard</title>
+      <link>/authors/m-collard/</link>
+      <pubDate>Thu, 01 Jan 1970 01:33:39 +0100</pubDate>
+      
+      <guid>/authors/m-collard/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>M Colombier</title>
+      <link>/authors/m-colombier/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/m-colombier/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>M Dai</title>
+      <link>/authors/m-dai/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/m-dai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>M Denis</title>
+      <link>/authors/m-denis/</link>
+      <pubDate>Wed, 01 Jan 2003 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/m-denis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>M Déniel</title>
+      <link>/authors/m-d%C3%A9niel/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/m-d%C3%A9niel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>M Fine</title>
+      <link>/authors/m-fine/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/m-fine/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>M Follows</title>
+      <link>/authors/m-follows/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/m-follows/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>M Garel</title>
+      <link>/authors/m-garel/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/m-garel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>M Gaubert</title>
+      <link>/authors/m-gaubert/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/m-gaubert/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>M Gehlen</title>
+      <link>/authors/m-gehlen/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/m-gehlen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>M Goutx</title>
+      <link>/authors/m-goutx/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/m-goutx/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>M Greaves</title>
+      <link>/authors/m-greaves/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/m-greaves/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>M Johnson</title>
+      <link>/authors/m-johnson/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/m-johnson/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>M McCulloch</title>
+      <link>/authors/m-mcculloch/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/m-mcculloch/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>M Medina</title>
+      <link>/authors/m-medina/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/m-medina/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>M Meléndez</title>
+      <link>/authors/m-mel%C3%A9ndez/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/m-mel%C3%A9ndez/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>M Milnes</title>
+      <link>/authors/m-milnes/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/m-milnes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>M Nash</title>
+      <link>/authors/m-nash/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/m-nash/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>M Picheral</title>
+      <link>/authors/m-picheral/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/m-picheral/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>M Raitzsch</title>
+      <link>/authors/m-raitzsch/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/m-raitzsch/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>M Taviani</title>
+      <link>/authors/m-taviani/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/m-taviani/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>M Vichi</title>
+      <link>/authors/m-vichi/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/m-vichi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>M Winter</title>
+      <link>/authors/m-winter/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/m-winter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>M-D Pizay</title>
+      <link>/authors/m-d-pizay/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/m-d-pizay/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>M-E Kerros</title>
+      <link>/authors/m-e-kerros/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/m-e-kerros/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>M. Apps</title>
+      <link>/authors/m.-apps/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/m.-apps/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>M. Eby</title>
+      <link>/authors/m.-eby/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/m.-eby/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>M. Elliott</title>
+      <link>/authors/m.-elliott/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/m.-elliott/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>M. Frankignoulle</title>
+      <link>/authors/m.-frankignoulle/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/m.-frankignoulle/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>M. G. Weinbauer</title>
+      <link>/authors/m.-g.-weinbauer/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/m.-g.-weinbauer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>M. Lesser</title>
+      <link>/authors/m.-lesser/</link>
+      <pubDate>Fri, 01 Jan 1993 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/m.-lesser/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>M. Loijens</title>
+      <link>/authors/m.-loijens/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/m.-loijens/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>M. Marker</title>
+      <link>/authors/m.-marker/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/m.-marker/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>M. Pichon</title>
+      <link>/authors/m.-pichon/</link>
+      <pubDate>Wed, 01 Jan 1997 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/m.-pichon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>M. Tonolla</title>
+      <link>/authors/m.-tonolla/</link>
+      <pubDate>Tue, 01 Jan 2002 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/m.-tonolla/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>M.-D. Pizay</title>
+      <link>/authors/m.-d.-pizay/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/m.-d.-pizay/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MB Sullivan</title>
+      <link>/authors/mb-sullivan/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/mb-sullivan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MC Bitter</title>
+      <link>/authors/mc-bitter/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/mc-bitter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MC Nash</title>
+      <link>/authors/mc-nash/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/mc-nash/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MG Weinbauer</title>
+      <link>/authors/mg-weinbauer/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/mg-weinbauer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ML Pedrotti</title>
+      <link>/authors/ml-pedrotti/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/ml-pedrotti/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MM Berzunza Sànchez</title>
+      <link>/authors/mm-berzunza-s%C3%A0nchez/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/mm-berzunza-s%C3%A0nchez/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MS Rintoul</title>
+      <link>/authors/ms-rintoul/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/ms-rintoul/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Manfred A. Lange</title>
+      <link>/authors/manfred-a.-lange/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/manfred-a.-lange/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Maria Carmen Llasat</title>
+      <link>/authors/maria-carmen-llasat/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/maria-carmen-llasat/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Maria Snoussi</title>
+      <link>/authors/maria-snoussi/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/maria-snoussi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Marianela Fader</title>
+      <link>/authors/marianela-fader/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/marianela-fader/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Marie-Emmanuelle Kerros</title>
+      <link>/authors/marie-emmanuelle-kerros/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/marie-emmanuelle-kerros/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mark van Kleunen</title>
+      <link>/authors/mark-van-kleunen/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/mark-van-kleunen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Michael N. Tsimplis</title>
+      <link>/authors/michael-n.-tsimplis/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/michael-n.-tsimplis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>N Bednaršek</title>
+      <link>/authors/n-bednar%C5%A1ek/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/n-bednar%C5%A1ek/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>N Bensoussan</title>
+      <link>/authors/n-bensoussan/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/n-bensoussan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>N Bijma</title>
+      <link>/authors/n-bijma/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/n-bijma/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>N Dorey</title>
+      <link>/authors/n-dorey/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/n-dorey/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>N González</title>
+      <link>/authors/n-gonz%C3%A1lez/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/n-gonz%C3%A1lez/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>N Grima</title>
+      <link>/authors/n-grima/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/n-grima/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>N Roden</title>
+      <link>/authors/n-roden/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/n-roden/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>N Sollfrank</title>
+      <link>/authors/n-sollfrank/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/n-sollfrank/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>N Vigier</title>
+      <link>/authors/n-vigier/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/n-vigier/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>N. Dawson</title>
+      <link>/authors/n.-dawson/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/n.-dawson/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>N. Iversen</title>
+      <link>/authors/n.-iversen/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/n.-iversen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>N. Leclercq</title>
+      <link>/authors/n.-leclercq/</link>
+      <pubDate>Wed, 01 Jan 2003 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/n.-leclercq/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>N. Spilmont</title>
+      <link>/authors/n.-spilmont/</link>
+      <pubDate>Tue, 01 Jan 2002 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/n.-spilmont/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NL Williams</title>
+      <link>/authors/nl-williams/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/nl-williams/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NR Bates</title>
+      <link>/authors/nr-bates/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/nr-bates/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nicholas Owens</title>
+      <link>/authors/nicholas-owens/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/nicholas-owens/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nick Ostle</title>
+      <link>/authors/nick-ostle/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/nick-ostle/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>O Bonilla-Findji</title>
+      <link>/authors/o-bonilla-findji/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/o-bonilla-findji/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>O Hoegh-Guldberg</title>
+      <link>/authors/o-hoegh-guldberg/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/o-hoegh-guldberg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>O Jahn</title>
+      <link>/authors/o-jahn/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/o-jahn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>O Pasqueron de Fommervault</title>
+      <link>/authors/o-pasqueron-de-fommervault/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/o-pasqueron-de-fommervault/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>O Passafiume</title>
+      <link>/authors/o-passafiume/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/o-passafiume/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>O. Bonilla-Findji</title>
+      <link>/authors/o.-bonilla-findji/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/o.-bonilla-findji/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Oliver Schweiger</title>
+      <link>/authors/oliver-schweiger/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/oliver-schweiger/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ove Hoegh-Guldberg</title>
+      <link>/authors/ove-hoegh-guldberg/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/ove-hoegh-guldberg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>P Bustamante</title>
+      <link>/authors/p-bustamante/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/p-bustamante/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>P Dubois</title>
+      <link>/authors/p-dubois/</link>
+      <pubDate>Thu, 01 Jan 1970 01:33:39 +0100</pubDate>
+      
+      <guid>/authors/p-dubois/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>P Francour</title>
+      <link>/authors/p-francour/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/p-francour/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>P Hingamp</title>
+      <link>/authors/p-hingamp/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/p-hingamp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>P Mahacek</title>
+      <link>/authors/p-mahacek/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/p-mahacek/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>P Montagna</title>
+      <link>/authors/p-montagna/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/p-montagna/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>P Popp</title>
+      <link>/authors/p-popp/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/p-popp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>P Rimmelin</title>
+      <link>/authors/p-rimmelin/</link>
+      <pubDate>Wed, 01 Jan 2003 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/p-rimmelin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>P Testor</title>
+      <link>/authors/p-testor/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/p-testor/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>P Watremez</title>
+      <link>/authors/p-watremez/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/p-watremez/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>P Williamson</title>
+      <link>/authors/p-williamson/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/p-williamson/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>P Wincker</title>
+      <link>/authors/p-wincker/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/p-wincker/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>P van Rijswijk</title>
+      <link>/authors/p-van-rijswijk/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/p-van-rijswijk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>P von Dassow</title>
+      <link>/authors/p-von-dassow/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/p-von-dassow/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>P. Brewer</title>
+      <link>/authors/p.-brewer/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/p.-brewer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>P. Furla</title>
+      <link>/authors/p.-furla/</link>
+      <pubDate>Sat, 01 Jan 2000 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/p.-furla/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>P. Mahacek</title>
+      <link>/authors/p.-mahacek/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/p.-mahacek/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>P. McElhany</title>
+      <link>/authors/p.-mcelhany/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/p.-mcelhany/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>P. Rinaldi</title>
+      <link>/authors/p.-rinaldi/</link>
+      <pubDate>Tue, 01 Jan 2002 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/p.-rinaldi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>P. Smith</title>
+      <link>/authors/p.-smith/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/p.-smith/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PJ Bresnahan</title>
+      <link>/authors/pj-bresnahan/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/pj-bresnahan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PJ Edmunds</title>
+      <link>/authors/pj-edmunds/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/pj-edmunds/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PL Munday</title>
+      <link>/authors/pl-munday/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/pl-munday/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PW Boyd</title>
+      <link>/authors/pw-boyd/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/pw-boyd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Patrick Drupp</title>
+      <link>/authors/patrick-drupp/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/patrick-drupp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Paul G. Falkowski</title>
+      <link>/authors/paul-g.-falkowski/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/paul-g.-falkowski/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Peter Brewer</title>
+      <link>/authors/peter-brewer/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/peter-brewer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Peter J. Irvine</title>
+      <link>/authors/peter-j.-irvine/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/peter-j.-irvine/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Peter M. Haugan</title>
+      <link>/authors/peter-m.-haugan/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/peter-m.-haugan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Phillip Williamson</title>
+      <link>/authors/phillip-williamson/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/phillip-williamson/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Piero Lionello</title>
+      <link>/authors/piero-lionello/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/piero-lionello/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Please Ross</title>
+      <link>/authors/please-ross/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/please-ross/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pru N. Foster</title>
+      <link>/authors/pru-n.-foster/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/pru-n.-foster/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R Albright</title>
+      <link>/authors/r-albright/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/r-albright/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R Billé</title>
+      <link>/authors/r-bill%C3%A9/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/r-bill%C3%A9/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R Carlton</title>
+      <link>/authors/r-carlton/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/r-carlton/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R Casotti</title>
+      <link>/authors/r-casotti/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/r-casotti/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R Dumollard</title>
+      <link>/authors/r-dumollard/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/r-dumollard/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R Jeffree</title>
+      <link>/authors/r-jeffree/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/r-jeffree/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R Kelly</title>
+      <link>/authors/r-kelly/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/r-kelly/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R Lemée</title>
+      <link>/authors/r-lem%C3%A9e/</link>
+      <pubDate>Wed, 01 Jan 2003 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/r-lem%C3%A9e/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R Rodolfo-Metalpa</title>
+      <link>/authors/r-rodolfo-metalpa/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/r-rodolfo-metalpa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R Sauzède</title>
+      <link>/authors/r-sauz%C3%A8de/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/r-sauz%C3%A8de/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R Thomas</title>
+      <link>/authors/r-thomas/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/r-thomas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R. Biondo</title>
+      <link>/authors/r.-biondo/</link>
+      <pubDate>Mon, 01 Jan 1996 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/r.-biondo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R. G. J. Bellerby</title>
+      <link>/authors/r.-g.-j.-bellerby/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/r.-g.-j.-bellerby/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R. Hopcroft</title>
+      <link>/authors/r.-hopcroft/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/r.-hopcroft/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R. Ian Perry</title>
+      <link>/authors/r.-ian-perry/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/r.-ian-perry/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R. Lemée</title>
+      <link>/authors/r.-lem%C3%A9e/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/r.-lem%C3%A9e/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R. Sambrotto</title>
+      <link>/authors/r.-sambrotto/</link>
+      <pubDate>Tue, 01 Jan 2002 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/r.-sambrotto/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R. Sauzède</title>
+      <link>/authors/r.-sauz%C3%A8de/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/r.-sauz%C3%A8de/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R. Wollast</title>
+      <link>/authors/r.-wollast/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/r.-wollast/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RA Eagle</title>
+      <link>/authors/ra-eagle/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/ra-eagle/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RA Feely</title>
+      <link>/authors/ra-feely/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/ra-feely/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RB Dunbar</title>
+      <link>/authors/rb-dunbar/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/rb-dunbar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RC Carpenter</title>
+      <link>/authors/rc-carpenter/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/rc-carpenter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RD Gates</title>
+      <link>/authors/rd-gates/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/rd-gates/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RE da Rocha</title>
+      <link>/authors/re-da-rocha/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/re-da-rocha/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RGJ Bellerby</title>
+      <link>/authors/rgj-bellerby/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/rgj-bellerby/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RP Kelly</title>
+      <link>/authors/rp-kelly/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/rp-kelly/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RW Buddemeier</title>
+      <link>/authors/rw-buddemeier/</link>
+      <pubDate>Mon, 01 Jan 2001 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/rw-buddemeier/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rachel Warren</title>
+      <link>/authors/rachel-warren/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/rachel-warren/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rebecca K. Smith</title>
+      <link>/authors/rebecca-k.-smith/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/rebecca-k.-smith/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rebecca Kordas</title>
+      <link>/authors/rebecca-kordas/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/rebecca-kordas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Richard A. Feely</title>
+      <link>/authors/richard-a.-feely/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/richard-a.-feely/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Richard Bellerby</title>
+      <link>/authors/richard-bellerby/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/richard-bellerby/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Richard E. Zeebe</title>
+      <link>/authors/richard-e.-zeebe/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/richard-e.-zeebe/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robert J. Scholes</title>
+      <link>/authors/robert-j.-scholes/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/robert-j.-scholes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ryan Crim</title>
+      <link>/authors/ryan-crim/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/ryan-crim/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>S Alliouane</title>
+      <link>/authors/s-alliouane/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/s-alliouane/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>S Audic</title>
+      <link>/authors/s-audic/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/s-audic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>S Cohu</title>
+      <link>/authors/s-cohu/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/s-cohu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>S Collins</title>
+      <link>/authors/s-collins/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/s-collins/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>S Comeau</title>
+      <link>/authors/s-comeau/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/s-comeau/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>S Cooley</title>
+      <link>/authors/s-cooley/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/s-cooley/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>S Dupont</title>
+      <link>/authors/s-dupont/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/s-dupont/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>S Fiorini</title>
+      <link>/authors/s-fiorini/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/s-fiorini/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>S Forêt</title>
+      <link>/authors/s-for%C3%AAt/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/s-for%C3%AAt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>S Jacquet</title>
+      <link>/authors/s-jacquet/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/s-jacquet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>S Kandels-Lewis</title>
+      <link>/authors/s-kandels-lewis/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/s-kandels-lewis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>S Malviya</title>
+      <link>/authors/s-malviya/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/s-malviya/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>S Marro</title>
+      <link>/authors/s-marro/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/s-marro/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>S Martin</title>
+      <link>/authors/s-martin/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/s-martin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>S Misra</title>
+      <link>/authors/s-misra/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/s-misra/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>S Pesant</title>
+      <link>/authors/s-pesant/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/s-pesant/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>S Reynaud</title>
+      <link>/authors/s-reynaud/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/s-reynaud/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>S Richier</title>
+      <link>/authors/s-richier/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/s-richier/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>S Roux</title>
+      <link>/authors/s-roux/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/s-roux/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>S Santini</title>
+      <link>/authors/s-santini/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/s-santini/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>S Schenone</title>
+      <link>/authors/s-schenone/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/s-schenone/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>S Searson</title>
+      <link>/authors/s-searson/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/s-searson/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>S Silenzi</title>
+      <link>/authors/s-silenzi/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/s-silenzi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>S Speich</title>
+      <link>/authors/s-speich/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/s-speich/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>S Sunagawa</title>
+      <link>/authors/s-sunagawa/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/s-sunagawa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>S Tambutté</title>
+      <link>/authors/s-tambutt%C3%A9/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/s-tambutt%C3%A9/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>S Treyer</title>
+      <link>/authors/s-treyer/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/s-treyer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>S Whiteside</title>
+      <link>/authors/s-whiteside/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/s-whiteside/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>S Widdicombe</title>
+      <link>/authors/s-widdicombe/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/s-widdicombe/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>S Yamamoto</title>
+      <link>/authors/s-yamamoto/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/s-yamamoto/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>S-A Watson</title>
+      <link>/authors/s-a-watson/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/s-a-watson/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>S. Alliouane</title>
+      <link>/authors/s.-alliouane/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/s.-alliouane/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>S. Comeau</title>
+      <link>/authors/s.-comeau/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/s.-comeau/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>S. Dallot</title>
+      <link>/authors/s.-dallot/</link>
+      <pubDate>Sat, 01 Jan 2000 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/s.-dallot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>S. Forêt</title>
+      <link>/authors/s.-for%C3%AAt/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/s.-for%C3%AAt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>S. Jacquet</title>
+      <link>/authors/s.-jacquet/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/s.-jacquet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>S. Lischka</title>
+      <link>/authors/s.-lischka/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/s.-lischka/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>S. Martin</title>
+      <link>/authors/s.-martin/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/s.-martin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>S. Peduzzi</title>
+      <link>/authors/s.-peduzzi/</link>
+      <pubDate>Tue, 01 Jan 2002 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/s.-peduzzi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>S. Reis</title>
+      <link>/authors/s.-reis/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/s.-reis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>S. Reynaud</title>
+      <link>/authors/s.-reynaud/</link>
+      <pubDate>Thu, 01 Jan 2004 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/s.-reynaud/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>S. Reynaud-Vaganay</title>
+      <link>/authors/s.-reynaud-vaganay/</link>
+      <pubDate>Mon, 01 Jan 2001 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/s.-reynaud-vaganay/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>S. Romaine</title>
+      <link>/authors/s.-romaine/</link>
+      <pubDate>Thu, 01 Jan 1998 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/s.-romaine/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>S. Romaine-Lioud</title>
+      <link>/authors/s.-romaine-lioud/</link>
+      <pubDate>Wed, 01 Jan 2003 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/s.-romaine-lioud/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>S. V. Smith</title>
+      <link>/authors/s.-v.-smith/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/s.-v.-smith/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>S. Widdicombe</title>
+      <link>/authors/s.-widdicombe/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/s.-widdicombe/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SG Acinas</title>
+      <link>/authors/sg-acinas/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/sg-acinas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SH Wang</title>
+      <link>/authors/sh-wang/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/sh-wang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SM Schwenck</title>
+      <link>/authors/sm-schwenck/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/sm-schwenck/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Salvador E. Lluch-Cota</title>
+      <link>/authors/salvador-e.-lluch-cota/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/salvador-e.-lluch-cota/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sarah Smith</title>
+      <link>/authors/sarah-smith/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/sarah-smith/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scott C. Doney</title>
+      <link>/authors/scott-c.-doney/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/scott-c.-doney/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Shlomit Paz</title>
+      <link>/authors/shlomit-paz/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/shlomit-paz/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sophie Richier</title>
+      <link>/authors/sophie-richier/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/sophie-richier/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stephen J. Hawkins</title>
+      <link>/authors/stephen-j.-hawkins/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/stephen-j.-hawkins/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Steve Widdicombe</title>
+      <link>/authors/steve-widdicombe/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/steve-widdicombe/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>T Cyronak</title>
+      <link>/authors/t-cyronak/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/t-cyronak/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>T Felis</title>
+      <link>/authors/t-felis/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/t-felis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>T Lacoue-Labarthe</title>
+      <link>/authors/t-lacoue-labarthe/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/t-lacoue-labarthe/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>T Spears</title>
+      <link>/authors/t-spears/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/t-spears/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>T Spencer</title>
+      <link>/authors/t-spencer/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/t-spencer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>T Steinhoff</title>
+      <link>/authors/t-steinhoff/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/t-steinhoff/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>T Tanaka</title>
+      <link>/authors/t-tanaka/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/t-tanaka/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>T Tyrrell</title>
+      <link>/authors/t-tyrrell/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/t-tyrrell/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>T Vannier</title>
+      <link>/authors/t-vannier/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/t-vannier/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>T. Christensen</title>
+      <link>/authors/t.-christensen/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/t.-christensen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>T. Tanaka</title>
+      <link>/authors/t.-tanaka/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/t.-tanaka/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TE Cox</title>
+      <link>/authors/te-cox/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/te-cox/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TF Thingstad</title>
+      <link>/authors/tf-thingstad/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/tf-thingstad/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TR Martz</title>
+      <link>/authors/tr-martz/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/tr-martz/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tatsuya Amano</title>
+      <link>/authors/tatsuya-amano/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/tatsuya-amano/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>U Passow</title>
+      <link>/authors/u-passow/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/u-passow/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>U Riebesell</title>
+      <link>/authors/u-riebesell/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/u-riebesell/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>U Schneider</title>
+      <link>/authors/u-schneider/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/u-schneider/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>U. Riebesell</title>
+      <link>/authors/u.-riebesell/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/u.-riebesell/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>U. Schneider</title>
+      <link>/authors/u.-schneider/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/u.-schneider/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>UR Sumaila</title>
+      <link>/authors/ur-sumaila/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/ur-sumaila/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>V Asnaghi</title>
+      <link>/authors/v-asnaghi/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/v-asnaghi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>V Diaz-Castañeda</title>
+      <link>/authors/v-diaz-casta%C3%B1eda/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/v-diaz-casta%C3%B1eda/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>V Díaz-Castañeda</title>
+      <link>/authors/v-d%C3%ADaz-casta%C3%B1eda/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/v-d%C3%ADaz-casta%C3%B1eda/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>V Riou</title>
+      <link>/authors/v-riou/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/v-riou/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>V. Alexeyev</title>
+      <link>/authors/v.-alexeyev/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/v.-alexeyev/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>V. Saderne</title>
+      <link>/authors/v.-saderne/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/v.-saderne/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>VE Villafañe</title>
+      <link>/authors/ve-villafa%C3%B1e/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/ve-villafa%C3%B1e/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>VI Chalastani</title>
+      <link>/authors/vi-chalastani/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/vi-chalastani/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>VJ Fabry</title>
+      <link>/authors/vj-fabry/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/vj-fabry/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Victoria J. Fabry</title>
+      <link>/authors/victoria-j.-fabry/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/victoria-j.-fabry/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>W Dellisanti</title>
+      <link>/authors/w-dellisanti/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/w-dellisanti/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>W Kirkwood</title>
+      <link>/authors/w-kirkwood/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/w-kirkwood/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>W O’Connor</title>
+      <link>/authors/w-oconnor/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/w-oconnor/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>W. Cauwet</title>
+      <link>/authors/w.-cauwet/</link>
+      <pubDate>Thu, 01 Jan 1998 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/w.-cauwet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>W. Daniel Kissling</title>
+      <link>/authors/w.-daniel-kissling/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/w.-daniel-kissling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>W. Kirkwood</title>
+      <link>/authors/w.-kirkwood/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/w.-kirkwood/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>WWL Cheung</title>
+      <link>/authors/wwl-cheung/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/wwl-cheung/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wanda Born</title>
+      <link>/authors/wanda-born/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/wanda-born/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>William J. Sutherland</title>
+      <link>/authors/william-j.-sutherland/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/william-j.-sutherland/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wolfgang Cramer</title>
+      <link>/authors/wolfgang-cramer/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/wolfgang-cramer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Y Gerakis</title>
+      <link>/authors/y-gerakis/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/y-gerakis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Y Yang</title>
+      <link>/authors/y-yang/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/y-yang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Y. Huang</title>
+      <link>/authors/y.-huang/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/y.-huang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Y. Pan</title>
+      <link>/authors/y.-pan/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/y.-pan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yoshihisa Shirayama</title>
+      <link>/authors/yoshihisa-shirayama/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/yoshihisa-shirayama/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Z Ruan</title>
+      <link>/authors/z-ruan/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/z-ruan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>É. Tambutté</title>
+      <link>/authors/%C3%A9.-tambutt%C3%A9/</link>
+      <pubDate>Wed, 01 Jan 1997 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/%C3%A9.-tambutt%C3%A9/</guid>
       <description></description>
     </item>
     

@@ -1,0 +1,10 @@
++++
+title = "Comparison of the alkalinity and calcium anomaly techniques to estimate rates of net calcification"
+date = 2015-01-01
+authors = ["F Gazeau", "L Urbini", "TE Cox", "S Alliouane", "J-P Gattuso"]
+publication_types = ["2"]
+abstract = "Among current methods used to estimate calcification rates, the alkalinity anomaly technique has been widely used for short-term incubations as it is nondestructive and is based on a parameter that is easily and accurately measured. However, total alkalinity is also influenced by other processes such as nutrient consumption and release, and may also require corrections. The calcium anomaly technique has been little used because calcium is notoriously difficult to measure precisely and several species precipitate calcite with varying contents of magnesium. In this study, calcification rates of benthic calcifiers—a crustose coralline alga, a coral, a sea urchin, and a mussel—were estimated with these 2 approaches. Rates derived using the 2 methods were well correlated for all species and did not significantly differ from each other for corals incubated in the light and dark, and for coralline algae when incubated in the dark. Coralline algae appear to produce magnesian calcite in the light. Sea urchins and mussels released relatively large amounts of ammonia, and a correction of the alkalinity anomaly method was necessary. For urchins, calcification rates based on total alkalinity were higher than rates based on calcium as these organisms incorporate magnesium. For mussels, the corrected alkalinity anomaly technique provided values close to those based on calcium anomaly at low incubation densities, but values were significantly lower at high calcification and excretion rates, suggesting that ammonium concentrations were underestimated or another process affected total alkalinity. The results demonstrate that the alkalinity and calcium anomaly techniques are not robustly applicable to all calcifiers without careful consideration of organism physiology and mineralogy."
+selected = false
+publication = "*Marine Ecology Progress Series*"
++++
+

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jean-Pierre Gattuso</title>
+    <link>/authors/jean-pierre-gattuso/</link>
+    <description>Recent content on Jean-Pierre Gattuso</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="/authors/jean-pierre-gattuso/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Climate change and interconnected risks to sustainable development in the Mediterranean</title>
+      <link>/publication/cramer-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/cramer-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Key impacts of climate engineering on biodiversity and ecosystems, with priorities for future research</title>
+      <link>/publication/mc-cormack-2016/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/mc-cormack-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Impacts of ocean acidification on marine organisms: quantifying sensitivities and interaction with warming</title>
+      <link>/publication/kroeker-2013-c/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/kroeker-2013-c/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Light-dependent transcriptional regulation of genes of biogeochemical interest in the diploid and haploid life cycle stages of Emiliania huxleyi</title>
+      <link>/publication/richier-2009-b/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/richier-2009-b/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

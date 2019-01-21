@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>RW Buddemeier on Jean-Pierre Gattuso</title>
+    <link>/authors/rw-buddemeier/</link>
+    <description>Recent content in RW Buddemeier on Jean-Pierre Gattuso</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 01 Jan 2001 00:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="/authors/rw-buddemeier/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The future of coral reefs in an age of global change</title>
+      <link>/publication/kleypas-2001-b/</link>
+      <pubDate>Mon, 01 Jan 2001 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/kleypas-2001-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ocean biogeochemistry: calcification and CO|2|</title>
+      <link>/publication/gattuso-2000/</link>
+      <pubDate>Sat, 01 Jan 2000 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/gattuso-2000/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Geochemical consequences of increased atmospheric CO|2| on coral reefs</title>
+      <link>/publication/kleypas-1999-a/</link>
+      <pubDate>Fri, 01 Jan 1999 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/kleypas-1999-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Effect of calcium carbonate saturation of seawater on coral calcification</title>
+      <link>/publication/gattuso-1998/</link>
+      <pubDate>Thu, 01 Jan 1998 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/gattuso-1998/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

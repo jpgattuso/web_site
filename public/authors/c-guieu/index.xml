@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>C Guieu on Jean-Pierre Gattuso</title>
+    <link>/authors/c-guieu/</link>
+    <description>Recent content in C Guieu on Jean-Pierre Gattuso</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="/authors/c-guieu/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>No detectable effect of ocean acidification on plankton metabolism in the NW oligotrophic Mediterranean Sea: results from two mesocosm studies</title>
+      <link>/publication/maugendre-2017-a/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/maugendre-2017-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ocean acidification in the Mediterranean Sea: pelagic mesocosm experiments. A synthesis</title>
+      <link>/publication/maugendre-2017-b/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/maugendre-2017-b/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>D Schmidt on Academic</title>
+    <link>/authors/d-schmidt/</link>
+    <description>Recent content in D Schmidt on Academic</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 01 Jan 2014 00:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="/authors/d-schmidt/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Ocean acidification</title>
+      <link>/publication/gattuso-2014-j/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/gattuso-2014-j/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Acidification des ocans Rsum  lintention des dcideurs  Troisime Symposium sur Locan dans un monde avec un taux lev de CO|2|</title>
+      <link>/publication/broadgate-2013-a/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/broadgate-2013-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ocean Acidification Summary for Policymakers  Third Symposium on the Ocean in a High-CO|2| World</title>
+      <link>/publication/broadgate-2013/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/broadgate-2013/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

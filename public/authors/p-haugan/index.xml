@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>P Haugan on Academic</title>
+    <link>/authors/p-haugan/</link>
+    <description>Recent content in P Haugan on Academic</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 01 Jan 2009 00:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="/authors/p-haugan/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Research priorities for ocean acidification, report from the Second Symposium on the Ocean in a High-CO|2| World</title>
+      <link>/publication/orr-2009/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/orr-2009/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

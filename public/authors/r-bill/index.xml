@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>R Bill on Academic</title>
+    <link>/authors/r-bill/</link>
+    <description>Recent content in R Bill on Academic</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="/authors/r-bill/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Implications of the Paris Agreement for the ocean</title>
+      <link>/publication/magnan-2016/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/magnan-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contrasting futures for ocean and society from different anthropogenic CO|2| emissions scenarios</title>
+      <link>/publication/gattuso-2015-i/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/gattuso-2015-i/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Taking action against ocean acidification: a review of management and policy options</title>
+      <link>/publication/bill-2013-a/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/bill-2013-a/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

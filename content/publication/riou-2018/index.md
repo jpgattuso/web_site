@@ -1,0 +1,10 @@
++++
+title = "Biodegradation of Emiliania huxleyi aggregates by a natural Mediterranean prokaryotic community under increasing hydrostatic pressure"
+date = 2018-01-01
+authors = ["V Riou", "J Para", "M Garel", "C Guigue", "B Al Ali", "C Santinelli", "D Lefèvre", "J-P Gattuso", "M Goutx", "S Jacquet", "F Le Moigne", "K Tachikawa", "C Tamburini"]
+publication_types = ["2"]
+abstract = "In the deep ocean, fluxes of particulate organic carbon (POC) and calcium carbonate are positively correlated, suggesting that CaCO3 could increase sinking particle densities and/or protect the organic matter from degradation by prokaryotes, the so called \"ballast effect\". Here, we used the PArticle Sinking Simulator system to investigate the effect of increasing pressure on the biodegradation of calcifying Emiliania huxleyi aggregates. A ten days incubation was performed, simulating the changes in temperature and pressure experienced in situ in the NW Mediterranean Sea. Aggregates sinking from 200m to 1700m depth (assuming an average sinking velocity of 150 m d-1) were exposed to a fresh natural mesopelagic prokaryotic community, with limited influence of culture-associated prokaryotes. E. huxleyi aggregates lipid composition revealed more degradation under increasing hydrostatic pressure (relative to constant atmospheric pressure), suggesting increased cell lysis. In parallel, changes in particulate inorganic carbon and total alkalinity indicated CaCO3 dissolution, potentially accelerated under pressure. However, increased hydrostatic pressure also had a positive effect on particle aggregation, which may compensate the effect of increased cell lysis. Our results imply that in coccolithophorid-dominated sinking aggregates, the ballasting and protection effects of coccoliths may collapse throughout the water column. The increase in aggregation potential with pressure observed in controlled conditions might balance the loss of mineral ballast to a certain extent, although this needs to be confirmed in situ."
+selected = false
+publication = "*Progress in Oceanography*"
++++
+

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>B. Delesalle on Jean-Pierre Gattuso</title>
+    <link>/authors/b.-delesalle/</link>
+    <description>Recent content in B. Delesalle on Jean-Pierre Gattuso</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 01 Jan 1997 00:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="/authors/b.-delesalle/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Primary production, calcification, and air-sea CO|2| fluxes of a macroalgal-dominated coral reef community (Moorea, French Polynesia)</title>
+      <link>/publication/gattuso-1997-a/</link>
+      <pubDate>Wed, 01 Jan 1997 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/gattuso-1997-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Carbon fluxes in coral reefs. 1. Lagrangian measurement of community metabolism and resulting air-sea CO|2| disequilibrium</title>
+      <link>/publication/gattuso-1996/</link>
+      <pubDate>Mon, 01 Jan 1996 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/gattuso-1996/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Community metabolism and air-sea CO|2| fluxes in a coral reef ecosystem (Moorea, French Polynesia)</title>
+      <link>/publication/gattuso-1993-a/</link>
+      <pubDate>Fri, 01 Jan 1993 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/gattuso-1993-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Effects of a cyclone on coral reef phytoplankton biomass, primary production and composition (Moorea island, French Polynesia)</title>
+      <link>/publication/delesalle-1993-a/</link>
+      <pubDate>Fri, 01 Jan 1993 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/delesalle-1993-a/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

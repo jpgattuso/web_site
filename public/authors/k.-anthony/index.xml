@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>K. Anthony on Jean-Pierre Gattuso</title>
+    <link>/authors/k.-anthony/</link>
+    <description>Recent content in K. Anthony on Jean-Pierre Gattuso</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 01 Jan 2011 00:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="/authors/k.-anthony/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Coral reefs modify their seawater carbon chemistry – implications for impacts of ocean acidification</title>
+      <link>/publication/anthony-2011/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/anthony-2011/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

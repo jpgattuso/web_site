@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>TF Thingstad on Jean-Pierre Gattuso</title>
+    <link>/authors/tf-thingstad/</link>
+    <description>Recent content in TF Thingstad on Jean-Pierre Gattuso</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 01 Jan 2013 00:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="/authors/tf-thingstad/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Arctic ocean acidification: pelagic ecosystem and biogeochemical responses during a mesocosm study</title>
+      <link>/publication/riebesell-2013-d/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/riebesell-2013-d/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

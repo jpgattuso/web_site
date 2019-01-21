@@ -1,0 +1,10 @@
++++
+title = "Ocean acidification exacerbates the effect of UV radiation on the calcifying phytoplankter Emiliania huxleyi"
+date = 2009-01-01
+authors = ["K Gao", "Z Ruan", "VE Villafañe", "J-P Gattuso", "EW Helbling"]
+publication_types = ["2"]
+abstract = "Increasing atmospheric CO2 concentration affects calcification in most planktonic calcifiers. Both reduced or stimulated calcification under high CO2 have been reported in the widespread coccolithophore Emiliania huxleyi. This might affect the response of cells to photosynthetically active radiation (PAR; 400–700 nm) and ultraviolet radiation (UVR; 280–400 nm) by altering the thickness of the coccolith layer. Here we show that in the absence of UVR, the calcification rates in E. huxleyi decrease under lowered pH levels (pHNBS of 7.9 and 7.6; pCO2 of 81 and 178 Pa or 804 and 1759 ppmv, respectively) leading to thinned coccolith layers, whereas photosynthetic carbon fixation was slightly enhanced at pH 7.9 but remained unaffected at pH 7.6. Exposure to UVR (UV-A 19.5 W m-2, UV-B 0.67 W m-2) in addition to PAR (88.5 W m-2), however, results in significant inhibition of both photosynthesis and calcification, and these rates are further inhibited with increasing acidification. The combined effects of UVR and seawater acidification resulted in the inhibition of calcification rates by 96% and 99% and that of photosynthesis by 6% and 15%, at pH 7.9 and 7.6, respectively. This differential inhibition of calcification and photosynthesis leads to significant reduction of the ratio of calcification to photosynthesis. Seawater acidification enhanced the transmission of harmful UVR by about 26% through a reduction of the coccolith layer of 31%. Our data indicate that the effect of a high-CO2 and low-pH ocean on E. huxleyi (because of reduced calcification associated with changes in the carbonate system) enhances the detrimental effects of UVR on the main pelagic calcifier."
+selected = false
+publication = "*Limnology and Oceanography*"
++++
+

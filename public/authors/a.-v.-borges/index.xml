@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>A. V. Borges on Jean-Pierre Gattuso</title>
+    <link>/authors/a.-v.-borges/</link>
+    <description>Recent content in A. V. Borges on Jean-Pierre Gattuso</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 01 Jan 2007 00:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="/authors/a.-v.-borges/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Artificial neural network analysis of factors controlling ecosystem metabolism in coastal marine environments</title>
+      <link>/publication/rochelle-newall-2007-a/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/rochelle-newall-2007-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Net ecosystem metabolism in a micro-tidal estuary (Randers Fjord, Denmark): evaluation of methods</title>
+      <link>/publication/gazeau-2005-d/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/gazeau-2005-d/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Response of primary production and calcification to changes of pCO|2| during experimental blooms of the coccolithophorid Emiliania huxleyi</title>
+      <link>/publication/delille-2005-b/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/delille-2005-b/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

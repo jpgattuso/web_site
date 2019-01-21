@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>S. Romaine on Jean-Pierre Gattuso</title>
+    <link>/authors/s.-romaine/</link>
+    <description>Recent content in S. Romaine on Jean-Pierre Gattuso</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 01 Jan 1998 00:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="/authors/s.-romaine/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Effect of calcium carbonate saturation of seawater on coral calcification</title>
+      <link>/publication/gattuso-1998/</link>
+      <pubDate>Thu, 01 Jan 1998 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/gattuso-1998/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Photosynthesis, respiration and calcification of a zooxanthellate scleractinian coral under submerged and exposed conditions</title>
+      <link>/publication/romaine-1997-a/</link>
+      <pubDate>Wed, 01 Jan 1997 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/romaine-1997-a/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

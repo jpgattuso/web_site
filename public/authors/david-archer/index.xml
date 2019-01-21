@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>David Archer on Jean-Pierre Gattuso</title>
+    <link>/authors/david-archer/</link>
+    <description>Recent content in David Archer on Jean-Pierre Gattuso</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 01 Jan 2007 00:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="/authors/david-archer/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Comment on &#34;Modern-age buildup of CO|2| and its effects on seawater acidity and salinity&#34; by Hugo A. Loáiciga</title>
+      <link>/publication/caldeira-2007-c/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/caldeira-2007-c/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>S Comeau on Jean-Pierre Gattuso</title>
+    <link>/authors/s-comeau/</link>
+    <description>Recent content in S Comeau on Jean-Pierre Gattuso</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="/authors/s-comeau/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Integrating the effects of ocean acidification across functional scales on tropical coral reefs</title>
+      <link>/publication/edmunds-2016/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/edmunds-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Impacts of ocean acidification on marine shelled molluscs</title>
+      <link>/publication/gazeau-2013-a/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/gazeau-2013-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Effects of ocean acidification on overwintering juvenile Arctic pteropods Limacina helicina</title>
+      <link>/publication/comeau-2012-a/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/comeau-2012-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Impact of aragonite saturation state changes on migratory pteropods</title>
+      <link>/publication/comeau-2011-b/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/comeau-2011-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Larvae of the pteropod Cavolinia inflexa exposed to aragonite undersaturation are viable but shell-less</title>
+      <link>/publication/comeau-2010-f/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/comeau-2010-f/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Response of the Arctic pteropod Limacina helicina to projected future environmental conditions</title>
+      <link>/publication/comeau-2010/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/comeau-2010/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Impact of ocean acidification on a key Arctic pelagic mollusc (Limacina helicina)</title>
+      <link>/publication/comeau-2009-d/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/comeau-2009-d/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>L Kapsenberg on Jean-Pierre Gattuso</title>
+    <link>/authors/l-kapsenberg/</link>
+    <description>Recent content in L Kapsenberg on Jean-Pierre Gattuso</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="/authors/l-kapsenberg/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Ocean pH fluctuations affect mussel larvae at key developmental transitions</title>
+      <link>/publication/kapsenberg-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/kapsenberg-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Advancing ocean acidification biology using Durafet® pH electrodes</title>
+      <link>/publication/kapsenberg-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/kapsenberg-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Coastal ocean acidification and increasing total alkalinity in the northwestern Mediterranean Sea</title>
+      <link>/publication/kapsenberg-2017-a/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/kapsenberg-2017-a/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

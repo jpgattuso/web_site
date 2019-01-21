@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>F Joos on Jean-Pierre Gattuso</title>
+    <link>/authors/f-joos/</link>
+    <description>Recent content in F Joos on Jean-Pierre Gattuso</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="/authors/f-joos/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Implications of the Paris Agreement for the ocean</title>
+      <link>/publication/magnan-2016-b/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/magnan-2016-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An updated synthesis of the observed and projected impacts of climate change on the chemical, physical and biological processes in the oceans</title>
+      <link>/publication/howes-2015-c/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/howes-2015-c/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contrasting futures for ocean and society from different anthropogenic CO|2| emissions scenarios</title>
+      <link>/publication/gattuso-2015-j/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/gattuso-2015-j/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Taking action against ocean acidification: a review of management and policy options</title>
+      <link>/publication/bille-2013/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/bille-2013/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

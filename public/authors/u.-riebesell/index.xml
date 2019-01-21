@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>U. Riebesell on Jean-Pierre Gattuso</title>
+    <link>/authors/u.-riebesell/</link>
+    <description>Recent content in U. Riebesell on Jean-Pierre Gattuso</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 01 Jan 2013 00:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="/authors/u.-riebesell/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Effect of increased pCO|2| on the planktonic metabolic balance during a mesocosm experiment in an Arctic fjord</title>
+      <link>/publication/tanaka-2013-b/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/tanaka-2013-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Response of primary production and calcification to changes of pCO|2| during experimental blooms of the coccolithophorid Emiliania huxleyi</title>
+      <link>/publication/delille-2005-b/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/delille-2005-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Testing the direct effect of CO|2| concentration on a bloom the coccolithophorid Emiliania huxleyi in mesocosm experiments</title>
+      <link>/publication/engel-2005-a/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/engel-2005-a/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

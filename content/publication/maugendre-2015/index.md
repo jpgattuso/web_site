@@ -1,0 +1,10 @@
++++
+title = "Effect of ocean warming and acidification on a plankton community in the NW Mediterranean Sea"
+date = 2015-01-01
+authors = ["L Maugendre", "J-P Gattuso", "J Louis", "A de Kluijver", "S Marro", "K Soetaert", "F Gazeau"]
+publication_types = ["2"]
+abstract = "The effect of ocean warming and acidification was investigated on a natural plankton assemblage from an oligotrophic area, the bay of Villefranche (NW Mediterranean Sea). The assemblage was sampled in March 2012 and exposed to the following four treatments for 12 days: control (∼360 μatm, 14°C), elevated pCO2 (∼610 μatm, 14°C), elevated temperature (∼410 μatm, 17°C), and elevated pCO2 and temperature (∼690 μatm, 17°C). Nutrients were already depleted at the beginning of the experiment and the concentrations of chlorophyll a (chl a), heterotrophic prokaryotes and viruses decreased, under all treatments, throughout the experiment. There were no statistically significant effects of ocean warming and acidification, whether in isolation or combined, on the concentrations of nutrients, particulate organic matter, chl a and most of the photosynthetic pigments. Furthermore, 13C labelling showed that the carbon transfer rates from 13C-sodium bicarbonate into particulate organic carbon were not affected by seawater warming nor acidification. Rates of gross primary production followed the general decreasing trend of chl a concentrations and were significantly higher under elevated temperature, an effect exacerbated when combined to elevated pCO2 level. In contrast to the other algal groups, the picophytoplankton population (cyanobacteria, mostly Synechococcus) increased throughout the experiment and was more abundant in the warmer treatment though to a lesser extent when combined to high pCO2 level. These results suggest that under nutrient-depleted conditions in the Mediterranean Sea, ocean acidification has a very limited impact on the plankton community and that small species will benefit from warming with a potential decrease of the export and energy transfer to higher trophic levels."
+selected = false
+publication = "*ICES Journal of Marine Science*"
++++
+

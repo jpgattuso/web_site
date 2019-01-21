@@ -1,0 +1,10 @@
++++
+title = "Early development and molecular plasticity in the Mediterranean sea urchin Paracentrotus lividus exposed to CO|2|-driven acidification"
+date = 2011-01-01
+authors = ["S Martin", "S Richier", "ML Pedrotti", "S Dupont", "C Castejon", "Y Gerakis", "M-E Kerros", "F Oberhänsli", "J-L Teyssié", "R Jeffree", "J-P Gattuso"]
+publication_types = ["2"]
+abstract = "Ocean acidification is predicted to have significant effects on benthic calcifying invertebrates and in particular on their early developmental stages. Echinoderm larvae could be particularly vulnerable to decreased pH with major consequences for adult populations. The objective of this study was to understand how ocean acidification will affect the initial life stages of the sea urchin Paracentrotus lividus, a common species that is widely distributed in the Mediterranean Sea and the NE Atlantic. The effects of decreased pH (elevated pCO2) were investigated through physiological and molecular analyses on both embryonic and larval stages. Eggs and larvae were reared in Mediterranean seawater at six pH levels, i.e. pHTof 8.1, 7.9, 7.7, 7.5, 7.25, and 7.0. Fertilization success, survival, growth and calcification rate were monitored over a 3 day period. The expression of genes coding for key proteins involved in development and biomineralization was also monitored. P. Lividus appears to be extremely resistant to low pH with no effect on fertilization success and larval survival. Larval growth was slowed when exposed to low pH but with no direct impact on relative larval morphology or calcification down to pHT 7.25. Consequently, at a given time, larvae exposed to low pH were present at a normal but delayed larval stage. More surprisingly, candidate genes involved in development and biomineralization were up-regulated by factors of up to 26 at low pH. Our results revealed plasticity at the gene expression level that allows a normal – but delayed – development under low pH conditions down to the extreme pHT value of 7.0."
+selected = false
+publication = "*The Journal of Experimental Biology*"
++++
+

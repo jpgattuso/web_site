@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>S Fiorini on Jean-Pierre Gattuso</title>
+    <link>/authors/s-fiorini/</link>
+    <description>Recent content in S Fiorini on Jean-Pierre Gattuso</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 01 Jan 2012 00:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="/authors/s-fiorini/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Variable production of transparent exopolymeric particles by haploid and diploid life stages of three coccolithophores grown under different CO|2| concentrations</title>
+      <link>/publication/pedrotti-2012-a/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/pedrotti-2012-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Effects of elevated CO|2| partial pressure and temperature on the coccolithophore Syracosphaera pulchra</title>
+      <link>/publication/fiorini-2011-b/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/fiorini-2011-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Response of the calcifying coccolithophore Emiliania huxleyi to low pH/high pCO|2|: from physiology to molecular level</title>
+      <link>/publication/richier-2011/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/richier-2011/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Testing the effects of elevated pCO|2| on coccolithophores (Prymnesiophyceae): comparison between haploid and diploid life stages</title>
+      <link>/publication/fiorini-2011/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/fiorini-2011/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Coccolithophores lipid and carbon isotope composition and their variability related to changes in seawater carbonate chemistry</title>
+      <link>/publication/fiorini-2010-b/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/fiorini-2010-b/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>P Mahacek on Jean-Pierre Gattuso</title>
+    <link>/authors/p-mahacek/</link>
+    <description>Recent content in P Mahacek on Jean-Pierre Gattuso</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="/authors/p-mahacek/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Effects of in situ CO|2| enrichment on Posidonia oceanica epiphytic community composition and mineralogy</title>
+      <link>/publication/cox-2017-b/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/cox-2017-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Effects of in situ CO|2| enrichment on epibiont settlement on artificial substrata within a Posidonia oceanica meadow</title>
+      <link>/publication/cox-2017-a/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/cox-2017-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Effects of in situ CO|2| enrichment on epibiont settlement within a Posidonia oceanica meadow</title>
+      <link>/publication/cox-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/cox-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Effects of in situ CO|2| enrichment on structural characteristics, photosynthesis, and growth of the Mediterranean seagrass Posidonia oceanica</title>
+      <link>/publication/cox-2016-a/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/cox-2016-a/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>E Tambutté on Jean-Pierre Gattuso</title>
+    <link>/authors/e-tambutt%C3%A9/</link>
+    <description>Recent content in E Tambutté on Jean-Pierre Gattuso</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="/authors/e-tambutt%C3%A9/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Ocean pH fluctuations affect mussel larvae at key developmental transitions</title>
+      <link>/publication/kapsenberg-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/kapsenberg-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Integrating the effects of ocean acidification across functional scales on tropical coral reefs</title>
+      <link>/publication/edmunds-2016/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/edmunds-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Coral and mollusc resistance to ocean acidification adversely affected by warming</title>
+      <link>/publication/rodolfo-metalpa-2011/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/rodolfo-metalpa-2011/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,10 @@
++++
+title = "Effect of CO|2| enrichment on bacterial metabolism in an Arctic fjord"
+date = 2013-01-01
+authors = ["C Motegi", "T Tanaka", "J Piontek", "CPD Brussard", "J-P Gattuso", "MG Weinbauer"]
+publication_types = ["2"]
+abstract = "The anthropogenic increase of carbon dioxide (CO2) alters the seawater carbonate chemistry, with a decline of pH and an increase in the partial pressure of CO2 (pCO2). Although bacteria play a major role in carbon cycling, little is known about the impact of rising pCO2 on bacterial carbon metabolism, especially for natural bacterial communities. In this study, we investigated the effect of rising pCO2 on bacterial production (BP), bacterial respiration (BR) and bacterial carbon metabolism during a mesocosm experiment performed in Kongsfjorden (Svalbard) in 2010. Nine mesocosms with pCO2 levels ranging from ca. 180 to 1400 μatm were deployed in the fjord and monitored for 30 days. Generally BP gradually decreased in all mesocosms in an initial phase, showed a large (3.6-fold average) but temporary increase on day 10, and increased slightly after inorganic nutrient addition. Over the wide range of pCO2 investigated, the patterns in BP and growth rate of bulk and free-living communities were generally similar over time. However, BP of the bulk community significantly decreased with increasing pCO2 after nutrient addition (day 14). In addition, increasing pCO2 enhanced the leucine to thymidine (Leu : TdR) ratio at the end of experiment, suggesting that pCO2 may alter the growth balance of bacteria. Stepwise multiple regression analysis suggests that multiple factors, including pCO2, explained the changes of BP, growth rate and Leu : TdR ratio at the end of the experiment. In contrast to BP, no clear trend and effect of changes of pCO2 was observed for BR, bacterial carbon demand and bacterial growth efficiency. Overall, the results suggest that changes in pCO2 potentially influence bacterial production, growth rate and growth balance rather than the conversion of dissolved organic matter into CO2."
+selected = false
+publication = "*Biogeosciences*"
++++
+

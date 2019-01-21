@@ -1,0 +1,10 @@
++++
+title = "Biological control of air-sea CO|2| fluxes: effect of photosynthetic and calcifying marine organisms and ecosystems"
+date = 1995-01-01
+authors = ["J-P Gattuso", "M. Pichon", "M. Frankignoulle"]
+publication_types = ["2"]
+abstract = "A simple expression enables prediction of the effect of photosynthetic and calcifying systems on air-sea CO2 exchange at all spatial scales (from organism to ecosystem). Input data are: grass primary production (P-g), respiration (R), net calcification (G) and the ratio of CO2 released to CaCO3 precipitated (psi); the output is the amount of dissolved inorganic carbon (F-CO2) which needs to be exchanged with the atmosphere to balance biologically mediated changes in the concentration of dissolved inorganic carbon in an open sea water system: F-CO2 = -P-g + R + psi G. Coral reef data were used in the model to illustrate the relative influence of organic and inorganic carbon metabolism on ocean-atmosphere CO2 cycling. A coral reef comprised of calcareous and non-calcareous organisms can be shown to act as a sink for atmospheric CO2 when excess (= net) production is high and CaCO3 precipitation is low. These characteristics are not typical of actively developing reef systems which typically exhibit a nearly balanced organic carbon metabolism (P-g/R approximate to 1) and relatively high rates of calcification. In these circumstances, reef communities can be expected to cause CO2 evasion to the atmosphere. This prediction is confirmed by the only existing measurement of air-sea CO2 flux in a coral reef system."
+selected = false
+publication = "*Marine Ecology Progress Series*"
++++
+

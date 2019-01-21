@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>L. Huisman on Jean-Pierre Gattuso</title>
+    <link>/authors/l.-huisman/</link>
+    <description>Recent content in L. Huisman on Jean-Pierre Gattuso</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 01 Jan 2015 00:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="/authors/l.-huisman/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Rapid acclimation of juvenile corals to CO|2|-mediated acidification by up-regulation of HSP and Bcl-2 genes</title>
+      <link>/publication/moya-2015/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/moya-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Whole transcriptome analysis of the coral Acropora millepora reveals complex responses to CO|2|-driven acidification during the initiation of calcification</title>
+      <link>/publication/moya-2012-b/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/moya-2012-b/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

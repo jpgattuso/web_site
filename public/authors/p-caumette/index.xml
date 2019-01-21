@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>P Caumette on Academic</title>
+    <link>/authors/p-caumette/</link>
+    <description>Recent content in P Caumette on Academic</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 01 Jan 2015 00:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="/authors/p-caumette/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Biogeochemical cycles</title>
+      <link>/publication/bertrand-2011-b/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/bertrand-2011-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Les cycles biogochimiques</title>
+      <link>/publication/bertrand-2011/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/bertrand-2011/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

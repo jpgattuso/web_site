@@ -1,0 +1,10 @@
++++
+title = "Ocean acidification reshapes the otolith-body allometry of growth in juvenile sea bream"
+date = 2015-01-01
+authors = ["E Réveillac", "T Lacoue-Labarthe", "F Oberhänsli", "J-L Teyssié", "R Jeffree", "J-P Gattuso", "S Martin"]
+publication_types = ["2"]
+abstract = "The effects of elevated CO2 partial pressure (pCO2) on otolith calcification and on the coupling between somatic and otolith growth were investigated in juvenile gilthead sea bream Sparus aurata. Six-month old individuals were raised during seven weeks under four pCO2 conditions set according to projected future ocean acidification scenarios. Body and otolith biometric parameters were measured throughout the experiment along with the otolith biomineralization monitored using a radiotracer technique based on 45Ca incorporation. Sea bream exhibited somatic growth resilience to all treatments. In contrast, increased growth rate and shape complexity of otoliths were observed with a pHT drop from 8.1 to 7.5. Hypercalcification was observed under lowered pH, with a rate of calcium incorporation increasing by up to 18% between pHT 8.1 and pHT 7.7. This work highlighted an uncoupling of otolith and body growth of juvenile sea bream within 40 days at pHT 7.9 projected to be reached by the end of the century. As the otolith is an essential tool used in reconstructing fish life history, this work suggests that information resulting from otolith studies should be interpreted with caution with respect to the potential impacts that ocean acidification projected modifications could have on otolith biomineralization."
+selected = false
+publication = "*Journal of Experimental Marine Biology and Ecology*"
++++
+

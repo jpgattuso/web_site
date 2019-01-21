@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CM Duarte on Jean-Pierre Gattuso</title>
+    <link>/authors/cm-duarte/</link>
+    <description>Recent content in CM Duarte on Jean-Pierre Gattuso</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="/authors/cm-duarte/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Ocean solutions to address climate change and its effects on marine ecosystems</title>
+      <link>/publication/gattuso-2018-a/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/gattuso-2018-a/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

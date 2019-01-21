@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>L Mousseau on Jean-Pierre Gattuso</title>
+    <link>/authors/l-mousseau/</link>
+    <description>Recent content in L Mousseau on Jean-Pierre Gattuso</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="/authors/l-mousseau/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Coastal ocean acidification and increasing total alkalinity in the northwestern Mediterranean Sea</title>
+      <link>/publication/kapsenberg-2017-a/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/kapsenberg-2017-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Carbonate chemistry and air-sea CO|2| flux in a NW Mediterranean Bay over a four-year period: 2007-2011</title>
+      <link>/publication/de-carlo-2013-a/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/de-carlo-2013-a/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

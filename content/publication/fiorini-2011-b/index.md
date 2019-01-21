@@ -1,0 +1,10 @@
++++
+title = "Effects of elevated CO|2| partial pressure and temperature on the coccolithophore Syracosphaera pulchra"
+date = 2011-01-01
+authors = ["S Fiorini", "JJ Middelburg", "J-P Gattuso"]
+publication_types = ["2"]
+abstract = "The effects of elevated partial pressure of CO2 (pCO2) and temperature on the cocco­lithophore Syracosphaera pulchra were investigated in isolation and in combination. Both the diploid and the haploid life stages were studied. Batch cultures were grown under 4 conditions: 400 µatm and 19°C; 400 µatm and 22°C; 740 µatm and 19°C; and 740 µatm and 22°C. The growth rate (μ) ­significantly increased under elevated pCO2 only in the haploid stage and showed a different pattern with respect to temperature: it was higher at an elevated temperature in the haploid stage at 400 µatm whereas it decreased in the diploid stage at 740 µatm. Increasing both parameters together increased the growth rate by 11% in the haploid stage only. Elevated pCO2 had a negative impact on the content of particulate organic carbon (POC), production and cell size in both life stages at 19°C, while no significant effect was observed at 22°C. Increasing temperature significantly increased the content of POC and production in the diploid stage at 740 µatm, while at 400 µatm it significantly decreased both the content of POC and production in the haploid stage. A simultaneous increase in pCO2 and temperature had a negative effect on the content of POC and production in the haploid stage only. Neither the rate of calcification (production of particulate inorganic carbon, PIC) nor the PIC:POC ratio were significantly affected by elevated pCO2, temperature or their interaction. These results showed a strong interactive effect between pCO2 and temperature in affecting the physiology of S. pulchra, an effect that was often more pronounced in the haploid life stage. Elevated pCO2 had a stronger effect than temperature."
+selected = false
+publication = "*Aquatic Microbial Ecology*"
++++
+

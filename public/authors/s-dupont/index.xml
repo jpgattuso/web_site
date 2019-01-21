@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>S Dupont on Jean-Pierre Gattuso</title>
+    <link>/authors/s-dupont/</link>
+    <description>Recent content in S Dupont on Jean-Pierre Gattuso</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="/authors/s-dupont/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Experimental strategies to assess the biological ramifications of multiple drivers of global ocean change - a review</title>
+      <link>/publication/boyd-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/boyd-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Early development and molecular plasticity in the Mediterranean sea urchin Paracentrotus lividus exposed to CO|2|-driven acidification</title>
+      <link>/publication/martin-2011-a/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/martin-2011-a/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

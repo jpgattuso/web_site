@@ -1,0 +1,10 @@
++++
+title = "Rapid acclimation of juvenile corals to CO|2|-mediated acidification by up-regulation of HSP and Bcl-2 genes"
+date = 2015-01-01
+authors = ["A. Moya", "L. Huisman", "E. E. Ball", "D. C. Hayward", "C. M. Chua", "H. N. Woo", "J-P Gattuso", "S. Forêt", "D. J. Miller"]
+publication_types = ["2"]
+abstract = "Corals play a key role in ocean ecosystems and carbonate balance but their molecular response to ocean acidification remains unclear. The only previous whole transcriptome study (Moya et al. 2012) documented extensive disruption of gene expression, particularly of genes encoding skeletal organic matrix proteins, in juvenile corals (A. millepora) after short-term (3 d) exposure to elevated pCO2. In the present study, whole transcriptome analysis was used to compare the effects of such \"acute\" (3 d) exposure to elevated pCO2 with a longer (\"prolonged\"; 9 d) period of exposure beginning immediately post-fertilisation. Far fewer genes were differentially expressed under the 9 d treatment and, although the transcriptome data implied wholesale disruption of metabolism and calcification genes in the acute treatment experiment, expression of most genes was at control levels after prolonged treatment. There was little overlap between the genes responding to the acute and prolonged treatments, but HSPs and HSFs were over-represented amongst the genes responding to both treatments. Amongst these was an HSP70 gene previously shown to be involved in acclimation to thermal stress in a field population of another acroporid coral. The most obvious feature of the molecular response in the 9 d treatment experiment was the up-regulation of five distinct Bcl-2 family members, the majority predicted to be anti-apoptotic. This suggests that an important component of the longer-term response to elevated CO2 is suppression of apoptosis. It therefore appears that juvenile A. millepora have the capacity to rapidly acclimate to elevated pCO2, a process mediated by up-regulation of specific HSPs and a suite of Bcl-2 family members."
+selected = false
+publication = "*Molecular Ecology*"
++++
+

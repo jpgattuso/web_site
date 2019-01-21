@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>S. Reynaud-Vaganay on Jean-Pierre Gattuso</title>
+    <link>/authors/s.-reynaud-vaganay/</link>
+    <description>Recent content in S. Reynaud-Vaganay on Jean-Pierre Gattuso</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 01 Jan 2001 00:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="/authors/s.-reynaud-vaganay/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Effect of light on skeletal ∂13C and ∂18O, and interaction with photosynthesis, respiration and calcification in two zooxanthellate scleractinian corals</title>
+      <link>/publication/reynaud-vaganay-2001-a/</link>
+      <pubDate>Mon, 01 Jan 2001 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/reynaud-vaganay-2001-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Calcification does not stimulate photosynthesis in the zooxanthellate scleractinian coral Stylophora pistillata</title>
+      <link>/publication/gattuso-2000-a/</link>
+      <pubDate>Sat, 01 Jan 2000 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/gattuso-2000-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A novel culture technique for scleractinian corals: application to investigate changes in skeletal ∂18O as a function of temperature</title>
+      <link>/publication/reynaud-vaganay-1999-a/</link>
+      <pubDate>Fri, 01 Jan 1999 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/reynaud-vaganay-1999-a/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

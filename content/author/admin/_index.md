@@ -70,6 +70,16 @@ email = "gattuso@obs-vlfr.fr"
   link = "https://scholar.google.fr/citations?user=4jJbnJcAAAAJ&hl=fr"
 
 [[social]]
+  icon = "researchgate"
+  icon_pack = "ai"
+  link = "https://www.researchgate.net/profile/Jean-Pierre_Gattuso"
+
+[[social]]
+  icon = "orcid"
+  icon_pack = "ai"
+  link = "https://orcid.org/0000-0002-4533-4114"
+  
+[[social]]
   icon = "github"
   icon_pack = "fab"
   link = "https://github.com/jpgattuso"

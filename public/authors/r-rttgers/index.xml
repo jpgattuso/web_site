@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>R Rttgers on Academic</title>
+    <link>/authors/r-rttgers/</link>
+    <description>Recent content in R Rttgers on Academic</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 01 Jan 2010 00:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="/authors/r-rttgers/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Production and export of organic matter</title>
+      <link>/publication/engel-2010-a/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/engel-2010-a/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

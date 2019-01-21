@@ -1,0 +1,10 @@
++++
+title = "CO|2| partial pressure controls the calcification rate of a coral community"
+date = 2000-01-01
+authors = ["N. Leclercq", "J-P Gattuso", "J. Jaubert"]
+publication_types = ["2"]
+abstract = "Previous studies have demonstrated that coral and algal calcification is tightly regulated by the calcium carbonate saturation state of seawater. This parameter is likely to decrease in response to the increase of dissolved CO2 resulting from the global increase of the partial pressure of atmospheric CO2. We have investigated the response of a coral reef community dominated by scleractinian corals, but also including other calcifying organisms such as calcareous algae, crustaceans, gastropods and echinoderms, and kept in an open-top mesocosm. Seawater pCO2 was modified by manipulating the pCO2 of air used to bubble the mesocosm. The aragonite saturation state (Warag) of the seawater in the mesocosm varied between 1.3 and 5.4. Community calcification decreased as a function of increasing pCO2 and decreasing Warag. This result is in agreement with previous data collected on scleractinian corals, coralline algae and in a reef mesocosm, even though some of these studies did not manipulate CO2 directly. Our data suggest that the rate of calcification during the last glacial maximum might have been 114% of the preindustrial rate. Moreover, using the average emission scenario (IS92a) of the Intergovernmental Panel on Climate Change, we predict that the calcification rate of scleractinian-dominated communities may decrease by 21% between the pre-industrial period (year 1880) and the time at which pCO2 will double (year 2065)."
+selected = false
+publication = "*Global Change Biology*"
++++
+

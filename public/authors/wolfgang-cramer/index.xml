@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Wolfgang Cramer on Jean-Pierre Gattuso</title>
+    <link>/authors/wolfgang-cramer/</link>
+    <description>Recent content in Wolfgang Cramer on Jean-Pierre Gattuso</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="/authors/wolfgang-cramer/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Climate change and interconnected risks to sustainable development in the Mediterranean</title>
+      <link>/publication/cramer-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/cramer-2018/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

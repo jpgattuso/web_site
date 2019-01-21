@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>D. Allemand on Jean-Pierre Gattuso</title>
+    <link>/authors/d.-allemand/</link>
+    <description>Recent content in D. Allemand on Jean-Pierre Gattuso</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 01 Jan 1999 00:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="/authors/d.-allemand/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Photosynthesis and calcification at cellular, organismal and community levels in coral reefs: a review on interactions and control by carbonate chemistry</title>
+      <link>/publication/gattuso-1999-b/</link>
+      <pubDate>Fri, 01 Jan 1999 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/gattuso-1999-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Microheterotrophy in the zooxanthellate coral Stylophora pistillata: effect of light and prey density</title>
+      <link>/publication/ferrier-pages-1998-a/</link>
+      <pubDate>Thu, 01 Jan 1998 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/ferrier-pages-1998-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Release of dissolved organic carbon and nitrogen by the zooxanthellate coral Galaxea fascicularis</title>
+      <link>/publication/ferrier-pages-1998-b/</link>
+      <pubDate>Thu, 01 Jan 1998 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/ferrier-pages-1998-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Photosynthesis, respiration and calcification of a zooxanthellate scleractinian coral under submerged and exposed conditions</title>
+      <link>/publication/romaine-1997-a/</link>
+      <pubDate>Wed, 01 Jan 1997 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/romaine-1997-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An improved 45Ca protocol for investigating physiological mechanisms in coral calcification</title>
+      <link>/publication/tambutte-1995-a/</link>
+      <pubDate>Sun, 01 Jan 1995 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/tambutte-1995-a/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

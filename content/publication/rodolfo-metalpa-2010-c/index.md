@@ -1,0 +1,10 @@
++++
+title = "Response of the temperate coral Cladocora caespitosa to mid- and long-term exposure to pCO|2| and temperature levels projected for the year 2100 AD"
+date = 2010-01-01
+authors = ["R Rodolfo-Metalpa", "S Martin", "C Ferrier-Pagès", "J-P Gattuso"]
+publication_types = ["2"]
+abstract = "Atmospheric CO2 partial pressure (pCO2) is expected to increase to 700 ppm or more by the end of the present century. Anthropogenic CO2 is absorbed by the oceans leading to decreases in pH and the CaCO3 saturation state (Ω) of the seawater. While pCO2 was shown to drastically decrease calcification rates in tropical, fast growing corals, here we show, using the Mediterranean symbiotic coral Cladocora caespitosa, that the conventional belief that an increase in pCO2, in the range predicted to 2100, reduces calcification rates may not be widespread in temperate corals. We found that the seasonal change in temperature was the predominant factor controlling the physiology and growth of C. caespitosa, while an increase in pCO2, alone or in combination with global warming, had no significant effect on photosynthesis, photosynthetic efficiency and calcification. This result differs from that obtained on reef-building corals, which exhibit lower rates of calcification at elevated pCO2. The lack of sensitivity of temperate corals to high-pCO2 levels might be due to its slow growth rates, which seem to be more dependent on temperature than on the saturation state of calcium carbonate in the range predicted for the end of the century."
+selected = false
+publication = "*Biogeosciences*"
++++
+

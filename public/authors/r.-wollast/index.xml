@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>R. Wollast on Jean-Pierre Gattuso</title>
+    <link>/authors/r.-wollast/</link>
+    <description>Recent content in R. Wollast on Jean-Pierre Gattuso</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 01 Jan 2005 00:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="/authors/r.-wollast/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Response of primary production and calcification to changes of pCO|2| during experimental blooms of the coccolithophorid Emiliania huxleyi</title>
+      <link>/publication/delille-2005-b/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/delille-2005-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Carbon and carbonate metabolism in coastal aquatic ecosystems</title>
+      <link>/publication/gattuso-1998-a/</link>
+      <pubDate>Thu, 01 Jan 1998 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/gattuso-1998-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Coral reefs and carbon dioxide</title>
+      <link>/publication/gattuso-1996-a/</link>
+      <pubDate>Mon, 01 Jan 1996 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/gattuso-1996-a/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,10 @@
++++
+title = "Calcification rates and the effect of ocean acidification on Mediterranean cold-water corals"
+date = 2012-01-01
+authors = ["C Maier", "P Watremez", "M Taviani", "MG Weinbauer", "J-P Gattuso"]
+publication_types = ["2"]
+abstract = "Global environmental changes, including ocean acidification, have been identified as a major threat to scleractinian corals. General predictions are that ocean acidification will be detrimental to reef growth and that 40 to more than 80 per cent of present-day reefs will decline during the next 50 years. Cold-water corals (CWCs) are thought to be strongly affected by changes in ocean acidification owing to their distribution in deep and/or cold waters, which naturally exhibit a CaCO3 saturation state lower than in shallow/warm waters. Calcification was measured in three species of Mediterranean cold-water scleractinian corals (Lophelia pertusa, Madrepora oculata and Desmophyllum dianthus) on-board research vessels and soon after collection. Incubations were performed in ambient sea water. The species M. oculata was additionally incubated in sea water reduced or enriched in CO2. At ambient conditions, calcification rates ranged between −0.01 and 0.23% d−1. Calcification rates of M. oculata under variable partial pressure of CO2 (pCO2) were the same for ambient and elevated pCO2 (404 and 867 µatm) with 0.06 ± 0.06% d−1, while calcification was 0.12 ± 0.06% d−1 when pCO2 was reduced to its pre-industrial level (285 µatm). This suggests that present-day CWC calcification in the Mediterranean Sea has already drastically declined (by 50%) as a consequence of anthropogenic-induced ocean acidification."
+selected = false
+publication = "*Proceedings of the Royal Society of London. Series B: Biological Sciences*"
++++
+

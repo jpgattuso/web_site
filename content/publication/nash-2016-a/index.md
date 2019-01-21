@@ -1,0 +1,10 @@
++++
+title = "Mineralogical response of the Mediterranean crustose coralline alga Lithophyllum cabiochae to near-future ocean acidification and warming"
+date = 2016-01-01
+authors = ["MC Nash", "S Martin", "J-P Gattuso"]
+publication_types = ["2"]
+abstract = "Red calcareous coralline algae are thought to be among the organisms most vulnerable to ocean acidification due to the high solubility of their magnesium calcite skeleton. Although skeletal mineralogy is proposed to change as CO2 and temperature continue to rise, there is currently very little information available on the response of coralline algal carbonate mineralogy to near-future changes in pCO2 and temperature. Here we present results from a 1-year controlled laboratory experiment to test mineralogical responses to pCO2 and temperature in the Mediterranean crustose coralline alga (CCA) Lithophyllum cabiochae. Our results show that Mg incorporation is mainly constrained by temperature (+1 mol % MgCO3 for an increase of 3 °C), and there was no response to pCO2. This suggests that L. cabiochae thalli have the ability to buffer their calcifying medium against ocean acidification, thereby enabling them to continue to deposit magnesium calcite with a significant mol % MgCO3 under elevated pCO2. Analyses of CCA dissolution chips showed a decrease in Mg content after 1 year for all treatments, but this was affected neither by pCO2 nor by temperature. Our findings suggest that biological processes exert a strong control on calcification on magnesium calcite and that CCA may be more resilient under rising CO2 than previously thought. However, previously demonstrated increased skeletal dissolution with ocean acidification will still have major consequences for the stability and maintenance of Mediterranean coralligenous habitats."
+selected = false
+publication = "*Biogeosciences*"
++++
+

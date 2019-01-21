@@ -154,7 +154,7 @@ custom_js  = []
   #   2 = APA
   #   3 = MLA
   #   4 = Stream
-  publication_format = 4
+  publication_format = 1
 
   # Talk list format.
   #   0 = Simple
